@@ -36,3 +36,17 @@ range of devices. The website is personalised by providing some information abou
 * As a Frequent User, I want to check to see if there are any new projects been added.
 * As a Frequent User, I want to check to see if there are any new updates or posts on social media.
 
+### User Requirements and Expectations
+
+#### Requirements
+* Easy to navigate by using the navigation menu
+* Appealing visual elements
+* Clear information about the designer
+* Relevant content about each projects
+* Easy way to contact the designer
+
+#### Expectations
+* When clicking on links e.g social media, I expect the page to open in a seperate browser.
+* I expect a message to be entered when submitting the contact form and that the form has been submitted correctly.
+* I expect the navigation links to work properly so that it takes me to wherever I want to go.
+* Clear information on each projects.
