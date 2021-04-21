@@ -8,8 +8,6 @@ range of devices. The website is personalised by providing some information abou
 ---
 ## User experience (UX)
 
-***
-
 ### User Goals
 * A website filled with valuable content 
 * Website should be easy to use on a desktop, tablet and mobile
