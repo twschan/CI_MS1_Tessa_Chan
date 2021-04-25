@@ -52,6 +52,9 @@ range of devices. The website is personalised by providing some information abou
 * Clear information on each projects.
 
 ## Wireframes
-[Balsamic](https://balsamiq.com/wireframes/)
+The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
+wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
 
-### [Desktop Wireframe](ms1wireframe/desktop-wireframe.png)
+* Desktop Wireframe [View](ms1wireframe/desktop-wireframe.png)
+* Mobile Wireframe [View](ms1wireframe/mobile-wireframe.png)
+* Tablet Wireframe [View](ms1wireframe/tablet-wireframe.png)
