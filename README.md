@@ -77,6 +77,15 @@ To keep a modern style and for easy readability, the font used are Montserrat fo
 and Raleway for general text with Sans Serif as the fallback font incase for any reason the font isn't being
 imported into the site correctly. These are taken from [Google](https://fonts.google.com/?preview.size=26&preview.text_type=custom&preview.text=TESSA%20CHAN) fonts library.
 
+### Icon
+I have decided to implement icons, using the [Font Awesome](https://fontawesome.com/) library.
+The icons are designer's social media, a back-to-top arrow and hamburger icon for smaller media.
+
+### Imagery
+Imagery is important for a graphic designer portfolio, so choosing good images will
+catch the users attention. All of the projects, logo and private owned images are from 
+the site owner and the portrait used are the site owner photo.
+
 ### Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
