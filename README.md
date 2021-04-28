@@ -72,6 +72,11 @@ elements, good for dark on light designs.
 * #FDEADD Pale Orange - Overlay colour on buttons when hovered or selected and call-to-actions buttons.
 * #5B5B5B Dark Gray - Header and text colour use on light designs.
 
+### Typography 
+To keep a modern style and for easy readability, the font used are Montserrat for headings
+and Raleway for general text with Sans Serif as the fallback font incase for any reason the font isn't being
+imported into the site correctly. These are taken from [Google](https://fonts.google.com/?preview.size=26&preview.text_type=custom&preview.text=TESSA%20CHAN) fonts library.
+
 ### Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
