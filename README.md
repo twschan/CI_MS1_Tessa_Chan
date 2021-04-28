@@ -31,9 +31,11 @@ range of devices. The website is personalised by providing some information abou
 8. As a Returning Visitor, I want to find the best way to get in contact with the designer with any questions I may have.
 9. As a Returning Visitor, I want to be able to get a downloadable CV of the site owner to easily share with others.
 
-#### Frequent User Goals
-* As a Frequent User, I want to check to see if there are any new projects been added.
-* As a Frequent User, I want to check to see if there are any new updates or posts on social media.
+#### Site Owner Goals
+10. As a site owner, I want users to see projects that showcase skills and growth.
+11. As a site owner, I want to connect to potential jobs and projects.
+12. As a site owner, I want to be able to contact the site owner easily for hire 
+opportunities, collabrations and networking.
 
 ### User Requirements and Expectations
 
