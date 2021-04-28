@@ -60,6 +60,16 @@ projects and make it more eye catching, a website that is subtle with good reada
 As this is a personal portfolio for the designer, the main inspiration and 
 decisions will come from the designer own personal designs.
 
+### Colour Scheme
+The colour scheme are mostly muted tones to give the subtleness to the website and also to make the images stand out.
+
+![colour scheme](wireframe/colour-scheme.png)
+* #FFFFFF White 
+* #F2F2F2 Light Gray
+* #FDEADD Pale Orange
+* #E7E1D3 Beige
+* #5B5B5B Dark Gray
+
 ### Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
