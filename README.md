@@ -51,8 +51,16 @@ opportunities, collabrations and networking.
 * I expect a message to be entered when submitting the contact form and that the form has been submitted correctly.
 * I expect the navigation links to work properly so that it takes me to wherever I want to go.
 * Clear information on each projects.
+---
 
-## Wireframes
+## Design Choices
+
+The style will be based on a minimalistic and simplicity approach that shows of the designer's
+projects and make it more eye catching, a website that is subtle with good readability also an easy flow and navigation.
+As this is a personal portfolio for the designer, the main inspiration and 
+decisions will come from the designer own personal designs.
+
+### Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
 
