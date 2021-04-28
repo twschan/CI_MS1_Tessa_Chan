@@ -18,19 +18,18 @@ range of devices. The website is personalised by providing some information abou
 * Easy to navigate throughout the site to find content 
 
 #### First Time Visitor Goals
-* As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.
-* As a First Time Visitor, I want to easily find out information about the designer.
-* As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.
-* As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
-* As a First Time Visitor, I want to find information about her projects and various images about her designs.
-* As a First Time Visitor, I want to be able to reach out to the designer via the website.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.
+2. As a First Time Visitor, I want to easily find out information about the designer.
+3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.
+4. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+5. As a First Time Visitor, I want to find information about her projects and various images about her designs.
+6. As a First Time Visitor, I want to be able to reach out to the designer via the website.
 
 
 #### Returning Visitor Goals
-* As a Returning Visitor, I want to find information and updates about her latest projects.
-* As a Returning Visitor, I want to find the best way to get in contact with the designer with any questions I may have.
-* As a Returning Visitor, I want to find the contact details quickly.
-* As a Returning Visitor, I expect that there are links to social media that open in seperate tabs.
+7. As a Returning Visitor, I want to find information and updates about her latest projects.
+8. As a Returning Visitor, I want to find the best way to get in contact with the designer with any questions I may have.
+9. As a Returning Visitor, I want to be able to get a downloadable CV of the site owner to easily share with others.
 
 #### Frequent User Goals
 * As a Frequent User, I want to check to see if there are any new projects been added.
