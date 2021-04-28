@@ -64,11 +64,13 @@ decisions will come from the designer own personal designs.
 The colour scheme are mostly muted tones to give the subtleness to the website and also to make the images stand out.
 
 ![colour scheme](wireframe/colour-scheme.png)
-* #FFFFFF White 
-* #F2F2F2 Light Gray
-* #FDEADD Pale Orange
-* #E7E1D3 Beige
-* #5B5B5B Dark Gray
+* #FFFFFF White - Use on navigation bar and the footer, good readability against
+darker shades so the main logo and designer name will stand out.
+* #F2F2F2 Light Gray - Primary background-colour use to bring attention to design 
+elements, good for dark on light designs.
+* #E7E1D3 Beige - Secondary background-colour can go well with lighter tone images.
+* #FDEADD Pale Orange - Overlay colour on buttons when hovered or selected and call-to-actions buttons.
+* #5B5B5B Dark Gray - Header and text colour use on light designs.
 
 ### Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
