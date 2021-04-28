@@ -6,7 +6,7 @@ On this site you can find relevant information you need as a visitor, which grou
 range of devices. The website is personalised by providing some information about the designer and images of her past and latest projects.
 
 ---
-## User experience (UX)
+# User experience (UX)
 
 ### User Goals
 * A website filled with valuable content 
@@ -86,7 +86,16 @@ Imagery is important for a graphic designer portfolio, so choosing good images w
 catch the users attention. All of the projects, logo and private owned images are from 
 the site owner and the portrait used are the site owner photo.
 
-### Wireframes
+### Structure
+This website will consist three seperate pages a homepage (index.html), projects page,
+about page and a contact form and also a link to download CV and pricelist.
+I have will be using [Bootstrap](https://getbootstrap.com/) to create an overall structure 
+for the website, a Modal component to create the contact form and Carousel component for images for 
+the homepage, the navigation bar will also be fixed on top. A responsive design will be added to the navbar and on small/mobile devices it will
+condense into a hamburger icon that will have a toggle to view the nav menu and its associated links.
+This will save screen space and keep to conventions users are expecting.
+ 
+# Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
 
