@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
 
 body {
+    background-color: #f2f2f2;
     font-family: "Montserrat", sans-serif;
+    font-family: "Raleway", sans-serif;
 }
+
+header {
+    background-color: #000000;
+}
+
+/*--------------------------------- Navbar */
