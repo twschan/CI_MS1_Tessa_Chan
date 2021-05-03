@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
 
 body {
-    background-color: #f2f2f2;
+    background-color: #E7E1D3;
     color: #5b5b5b;
     font-family: "Raleway", sans-serif;
     padding: 0;
@@ -16,7 +16,7 @@ body {
 .heading {
     font-family: "Raleway", sans-serif;
     text-align: center;
-    margin-top: 6rem;
+    margin-top: 9rem;
     font-size: 35px;
     color: #5b5b5b;
 }
@@ -24,11 +24,15 @@ body {
 .text-property {
     width: 100%;
     text-align: left;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-size: 24px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-size: 20px;
 }
 
+p {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
 
 
 /*--------------------------------- Header */
