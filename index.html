@@ -36,11 +36,6 @@
                     <li class="nav-item mr-2 flex-column">
                         <a class="nav-link" href="#" aria-label="about">About</a>
                     </li>
-                    <li class="nav-item mr-2 flex-column">
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-                            Book Me
-                        </button>
-                    </li>
                 </ul>
             </div>
         </nav>
@@ -96,33 +91,45 @@
     <!--Back to top arrow-->
     <!--Footer section links to social media-->
     <footer>
-
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#bookmeModal">
+            Book Me
+        </button>
     </footer>
 
     <!--Modal Book me form from bootstrap-->
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
+    <div class="modal fade bookme-modal" id="bookmeModal" tabindex="-1" role="dialog" aria-labelledby="bookmeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Book Me</h5>
+                    <h5 class="modal-title bookme-modal-title" id="bookmeModalLabel">Book Me</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <form>
+                    <form id="bookMe-form">
                         <div class="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
-                                aria-describedby="emailHelp">
-                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
-                                else.</small>
+                            <label for="Fname">Full Name:</label>
+                            <input class="contact-input" type="text" name="name" id="name" placeholder="Full Name"
+                                aria-label="Full Name" required>
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputPassword1">Password</label>
-                            <input type="password" class="form-control" id="exampleInputPassword1">
+                            <label for="Email">Email:</label>
+                            <input class="contact-input" type="email" name="email" id="email"
+                                placeholder="Email Address" aria-label="Email" required>
                         </div>
-                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <div class="form-group">
+                            <label for="Number">Number:</label>
+                            <input class="contact-input" type="text" name="phonenumber" id="phonenumber"
+                                placeholder="Phone Number" aria-label="Phone Number" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="contact-input" name="message" id="message" cols="25" rows="5" required
+                                aria-label="write your message here" placeholder="Write your message here"></textarea>
+                        </div>
+                        <div>
+                            <button type="submit" class="btn btn-primary">Send</button>
+                        </div>
                     </form>
                 </div>
             </div>

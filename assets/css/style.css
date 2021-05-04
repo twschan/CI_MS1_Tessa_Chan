@@ -81,4 +81,43 @@ p {
     margin: 0.5rem;
 }
 
+/*--------------------------------- Modal/buttons */
 
+.contact-input {
+    width: 80%;
+    margin-bottom: 1rem;
+    background-color: #f2f2f2;
+    color: #5b5b5b;
+    font-size: 19px;
+}
+
+.btn {
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 85%;
+    font-size: 18px;
+}
+
+.btn-primary {
+    color: #5b5b5b;
+    background-color: #f2f2f2;
+    border-color: #5b5b5b;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    font-size: 20px;
+}
+
+.modal-content {
+    background-color: #E7E1D3;
+    text-align: left;
+}
+
+/*--------------------------------- Hovers */
+
+.btn-primary:hover {
+    color: #5b5b5b;
+    background-color: #FDEADD;
+    border-color: #5b5b5b;
