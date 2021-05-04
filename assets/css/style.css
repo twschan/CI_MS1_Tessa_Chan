@@ -38,13 +38,13 @@ p {
 /*--------------------------------- Header */
 
 .navbar {
-    background-color: #ffffff;
+    background-color: #f2f2f2;
     text-align: left;
     position: fixed;
     overflow: hidden;
     top: 0;
     width: 100%;
-    z-index: 999999;
+    z-index: 1030;
     padding: 0;
     margin: 0;
 }
@@ -96,9 +96,6 @@ p {
     margin: 0 auto;
     max-width: 85%;
     font-size: 18px;
-}
-
-.btn-primary {
     color: #5b5b5b;
     background-color: #f2f2f2;
     border-color: #5b5b5b;
@@ -114,6 +111,18 @@ label {
     background-color: #E7E1D3;
     text-align: left;
 }
+
+#btn-bookme {
+    width: 100%;
+    text-align: center;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    font-size: 2rem;
+    padding: 14px 20px;
+}
+
+
 
 /*--------------------------------- Hovers */
 

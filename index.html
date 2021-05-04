@@ -28,7 +28,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ml-auto d-flex" id="navigation">
                     <li class="nav-item mr-2 flex-column">
-                        <a class="nav-link" href="#" aria-label="home">Home</a>
+                        <a class="nav-link" href="index.html" aria-label="home">Home</a>
                     </li>
                     <li class="nav-item mr-2 flex-column">
                         <a class="nav-link" href="#" aria-label="projects">Projects</a>
@@ -86,18 +86,23 @@
     </section>
 
     <!--Projects section-->
-    <section></section>
+    <section>
+        <div>
+        <button type="button" class="btn btn-light" id="btn-bookme" data-toggle="modal" data-target="#bookmeModal">
+            Book Me
+        </button>
+        </div>
+    </section>
 
     <!--Back to top arrow-->
     <!--Footer section links to social media-->
     <footer>
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#bookmeModal">
-            Book Me
-        </button>
+
     </footer>
 
     <!--Modal Book me form from bootstrap-->
-    <div class="modal fade bookme-modal" id="bookmeModal" tabindex="-1" role="dialog" aria-labelledby="bookmeModalLabel" aria-hidden="true">
+    <div class="modal fade bookme-modal" id="bookmeModal" tabindex="-1" role="dialog" aria-labelledby="bookmeModalLabel"
+        aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-header">
@@ -128,7 +133,7 @@
                                 aria-label="write your message here" placeholder="Write your message here"></textarea>
                         </div>
                         <div>
-                            <button type="submit" class="btn btn-primary">Send</button>
+                            <button type="submit" class="btn btn-light" id="btn-send">Send</button>
                         </div>
                     </form>
                 </div>
