@@ -8,7 +8,6 @@ body {
     margin: 0;
     position: relative;
     font-size: 2rem;
-
 }
 
 /*--------------------------------- Padding/margin/text */
@@ -81,15 +80,37 @@ p {
     margin: 0.5rem;
 }
 
+/*--------------------------------- Carousel */
+
+.carousel-item img {
+    width: 100%;
+}
+
 /*--------------------------------- Modal/buttons */
 
+.modal-body {
+    padding: 16px 20px;
+}
+
+.modal-content {
+    background-color: #E7E1D3;
+    text-align: left;
+    width: 100%;
+}
+
+label {
+    display: block;
+    font-size: 20px;
+}
+
 .contact-input {
-    width: 80%;
+    width: 100%;
     margin-bottom: 1rem;
     background-color: #f2f2f2;
     color: #5b5b5b;
     font-size: 19px;
 }
+
 
 .btn {
     padding: 10px;
@@ -97,36 +118,35 @@ p {
     max-width: 85%;
     font-size: 18px;
     color: #5b5b5b;
-    background-color: #f2f2f2;
+    background-color: #FDEADD;
     border-color: #5b5b5b;
 }
 
-label {
-    display: inline-block;
-    margin-bottom: .5rem;
-    font-size: 20px;
-}
-
-.modal-content {
-    background-color: #E7E1D3;
-    text-align: left;
-}
-
 #btn-bookme {
-    width: 100%;
+    width: 30%;
     text-align: center;
     margin: 8px 0;
-    border: none;
+    border: 1px solid #5b5b5b;
     border-radius: 4px;
-    font-size: 2rem;
+    font-size: 20px;
     padding: 14px 20px;
+    color: #5b5b5b;
 }
 
-
+#btn-send {
+    width: 30%;
+    text-align: center;
+    margin: 2px 2px;
+    border: 1px solid #5b5b5b;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 20px;
+    color: #5b5b5b;
+}
 
 /*--------------------------------- Hovers */
 
-.btn-primary:hover {
+.btn:hover {
     color: #5b5b5b;
     background-color: #FDEADD;
     border-color: #5b5b5b;
