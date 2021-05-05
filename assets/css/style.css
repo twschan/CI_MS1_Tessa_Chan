@@ -150,3 +150,9 @@ label {
     color: #5b5b5b;
     background-color: #FDEADD;
     border-color: #5b5b5b;
+}
+
+.nav-link:hover {
+    background-color: #FDEADD;
+    text-decoration: underline;
+}
