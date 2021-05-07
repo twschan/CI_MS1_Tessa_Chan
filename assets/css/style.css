@@ -90,11 +90,10 @@ p {
 
 .collection-images {
     background-position: center center;
-    background-repeat: no-repeat;
     background-size: cover;
     min-height: 15rem;
     margin-top: 1rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     border: 3px solid #f2f2f2;
 }
 
@@ -112,6 +111,22 @@ p {
 
 #flat {
     background-image: url('../images/flat.jpg');
+}
+
+.projects {
+    background-position: revert;
+    background-size: cover;
+    min-height: 15rem;
+    margin-bottom: 2rem;
+    border: 3px solid #f2f2f2;
+}
+
+#pr1bottom {
+    background-image: url('../images/pr1bottom.jpg');
+}
+
+#pr1cover {
+    background-image: url('../images/pr1cover.jpg');
 }
 
 /*--------------------------------- Modal/buttons */
