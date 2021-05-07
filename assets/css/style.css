@@ -86,6 +86,34 @@ p {
     width: 100%;
 }
 
+/*--------------------------------- Project section */
+
+.collection-images {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 30rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 3px solid #E7E1D3;
+}
+
+#pinkhand {
+    background-image: url('../images/pinkhand.jpg');
+}
+
+#green {
+    background-image: url('../images/green.jpg');
+}
+
+#city {
+    background-image: url('../images/city.jpg');
+}
+
+#flat {
+    background-image: url('../images/flat.jpg');
+}
+
 /*--------------------------------- Modal/buttons */
 
 .modal-body {
