@@ -248,3 +248,11 @@ label {
     font-size: 30px;
     padding: 6px;
 }
+
+/*--------------------------------- Media Queries */
+
+@media (min-width: 576px;) 
+
+        #navbar-name {
+            padding-left: 20px;
+        }
