@@ -210,10 +210,13 @@ label {
 
 /*--------------------------------- Hovers */
 
+.active {
+    text-decoration: underline;
+}
+
 .navbar-dark .navbar-brand:hover {
     color: #FDEADD;
 }
-
 .btn:hover {
     color: #5b5b5b;
     background-color: #FDEADD;
@@ -222,7 +225,6 @@ label {
 
 .nav-link:hover {
     background-color: #FDEADD;
-    text-decoration: underline;
     border: 3px solid #E7E1D3;
 }
 
@@ -251,8 +253,10 @@ label {
 
 /*--------------------------------- Media Queries */
 
-@media (min-width: 576px;) 
+@media (min-width: 576px) {
 
         #navbar-name {
             padding-left: 20px;
         }
+
+}
