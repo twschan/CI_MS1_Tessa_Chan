@@ -33,6 +33,10 @@ p {
     margin-bottom: 48px;
 }
 
+.project-sm {
+    padding: 0 5px;
+}
+
 
 /*--------------------------------- Header */
 
@@ -117,7 +121,7 @@ p {
     background-position: revert;
     background-size: cover;
     min-height: 15rem;
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
     border: 3px solid #f2f2f2;
 }
 
