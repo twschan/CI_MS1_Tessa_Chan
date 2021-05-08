@@ -66,9 +66,7 @@ p {
 
 #navigation li a {
     font-family: "Montserrat", sans-serif;
-    height: 100%;
-    padding-right: 30px;
-    margin: 0 24px;
+    padding: 8px;
     float: left;
     line-height: 30px;
     font-size: 1rem;
