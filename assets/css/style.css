@@ -256,8 +256,23 @@ label {
 
 @media (min-width: 576px) {
 
-        #navbar-name {
-            padding-left: 20px;
+    #navbar-name {
+        padding-left: 20px;
         }
 
+    #navigation li a {
+        float: right;
+        width: auto;
+        height: 50px;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    #navigation li a {
+        float: right;
+        width: auto;
+        height: 50px;
+    }
 }
