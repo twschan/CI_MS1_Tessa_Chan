@@ -129,6 +129,22 @@ p {
     background-image: url('../images/pr1cover.jpg');
 }
 
+#pr2cover {
+    background-image: url('../images/pr2cover.jpg');
+}
+
+#pr2bottom {
+    background-image: url('../images/pr2bottom.jpg');
+}
+
+#pr3cover {
+    background-image: url('../images/pr3cover.jpg');
+}
+
+#pr4cover {
+    background-image: url('../images/pr4cover.jpg');
+}
+
 /*--------------------------------- Modal/buttons */
 
 .modal-body {
