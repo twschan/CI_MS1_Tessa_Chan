@@ -10,7 +10,7 @@ body {
     font-size: 20px;
 }
 
-/*--------------------------------- Padding/margin/text */
+/* Padding/margin/text */
 
 .heading {
     font-family: "Raleway", sans-serif;
@@ -38,7 +38,7 @@ p {
 }
 
 
-/*--------------------------------- Header */
+/* Header */
 
 .navbar {
     background-color: #f2f2f2;
@@ -82,13 +82,13 @@ p {
     margin: 0.5rem;
 }
 
-/*--------------------------------- Carousel */
+/* Carousel */
 
 .carousel-item img {
     width: 100%;
 }
 
-/*--------------------------------- Project section */
+/* Project section */
 
 .collection-images {
     background-position: center center;
@@ -117,40 +117,13 @@ p {
 
 .projects {
     width: 100%;
-    background-position: revert;
-    background-size: cover;
-    height: 25rem;
-    margin-bottom: 0.5rem;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 1rem;
     border: 3px solid #f2f2f2;
 }
 
-#pr1bottom {
-    background-image: url('../images/pr1bottom.jpg');
-}
-
-#pr1cover {
-    background-image: url('../images/pr1cover.jpg');
-}
-
-#pr2cover {
-    background-image: url('../images/pr2cover.jpg');
-}
-
-#pr2bottom {
-    background-image: url('../images/pr2bottom.jpg');
-    background-position: center;
-}
-
-#pr3cover {
-    background-image: url('../images/pr3cover.jpg');
-    background-position: center;
-}
-
-#pr4cover {
-    background-image: url('../images/pr4cover.jpg');
-}
-
-/*--------------------------------- Modal/buttons */
+/* Modal/buttons */
 
 .modal-body {
     padding: 16px 20px;
@@ -209,7 +182,7 @@ label {
     color: #5b5b5b;
 }
 
-/*--------------------------------- Hovers */
+/* Hovers */
 
 .active {
     text-decoration: underline;
@@ -233,7 +206,7 @@ label {
     color: #FDEADD;
 }
 
-/*--------------------------------- Footer */
+/* Footer */
 
 #footer {
     background-color: #f2f2f2;
