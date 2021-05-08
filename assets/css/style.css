@@ -238,6 +238,10 @@ label {
         height: 50px;
     }
 
+    .row {
+        justify-content: center;
+    }
+
 }
 
 @media (min-width: 768px) {
@@ -247,4 +251,6 @@ label {
         width: auto;
         height: 50px;
     }
+
+    
 }
