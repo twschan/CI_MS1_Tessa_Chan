@@ -140,10 +140,12 @@ p {
 
 #pr2bottom {
     background-image: url('../images/pr2bottom.jpg');
+    background-position: center;
 }
 
 #pr3cover {
     background-image: url('../images/pr3cover.jpg');
+    background-position: center;
 }
 
 #pr4cover {
