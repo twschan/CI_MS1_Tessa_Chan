@@ -90,8 +90,11 @@ p {
 
 /* Carousel */
 
-.carousel-item img {
-    width: 100%;
+.carousel {
+    top: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    bottom: auto;
 }
 
 /* Project section */
