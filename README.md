@@ -1,5 +1,5 @@
 # <h1 align="center">Tessa Chan</h1>
-![Mock Up](wireframe/mock_up.png)
+![Mock Up](docs/mockup/mock_up.png)
 
 https://twschan.github.io/CI_MS1_Tessa_Chan/
 
