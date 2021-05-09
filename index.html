@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
@@ -18,44 +17,33 @@
     <!--Header and logo Navigation bar-->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark">
-            <a href="index.html" class="navbar-brand" id="navbar-name" aria-label="logo">TESSA CHAN <img src="assets/images/logo.png"
-                    alt="tessachan-logo" style="width: 50px;height: 50px;"></a>
-            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span><i class="fas fa-bars fa-1.5x"></i></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav ml-auto d-flex active" id="navigation">
-                    <li class="nav-item mr-2 flex-column">
-                        <a class="nav-link highlight" href="index.html" aria-label="home">Home</a>
-                    </li>
-                    <li class="nav-item mr-2 flex-column">
-                        <a class="nav-link" href="projects.html" aria-label="projects">Projects</a>
-                    </li>
-                    <li class="nav-item mr-2 flex-column">
-                        <a class="nav-link" href="about_me.html" aria-label="about">About Me</a>
-                    </li>
-                </ul>
+            <div class="container-fluid">
+                <a href="index.html" class="navbar-brand" id="navbar-name" aria-label="logo">TESSA CHAN <img
+                        src="assets/images/logo.png" alt="tessachan-logo" style="width: 50px;height: 50px;"></a>
+                <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
+                    data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span><i class="fas fa-bars fa-1.5x"></i></span></button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav ml-auto d-flex active" id="navigation">
+                        <li class="nav-item mr-2 flex-column">
+                            <a class="nav-link highlight" href="index.html" aria-label="home">Home</a>
+                        </li>
+                        <li class="nav-item mr-2 flex-column">
+                            <a class="nav-link" href="projects.html" aria-label="projects">Projects</a>
+                        </li>
+                        <li class="nav-item mr-2 flex-column">
+                            <a class="nav-link" href="about_me.html" aria-label="about">About Me</a>
+                        </li>
+                    </ul>
+                    <button class="btn d-none d-lg-block" type="button" id="btn-bookme" data-toggle="modal"
+                        data-target="#bookmeModal">
+                        Book Me
+                    </button>
+                </div>
             </div>
         </nav>
     </header>
-
-    <!--Section with Introduction-->
-    <section class="container-fluid">
-        <div class="row">
-            <div class="col-12">
-                <h1>Hello+</h1>
-            </div>
-        </div>
-        <div class="col-12 text-property">
-            <p>
-                Hi! I am Tessa, I am a Graphic Designer based in Bournemouth with 2 years of design experience within
-                the industry, I am bilingual and I speak fluent Cantonese and English.
-                Sleek and clean with a little boldness is my approach to design.
-            </p>
-        </div>
-    </section>
 
     <!--Carousel for image display from bootstrap-->
     <section>
@@ -85,12 +73,28 @@
         </div>
     </section>
 
+    <!--Section with Introduction-->
+    <section class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1>Hello+</h1>
+            </div>
+        </div>
+        <div class="col-12 text-property">
+            <p>
+                Hi! I am Tessa, I am a Graphic Designer based in Bournemouth with 2 years of design experience within
+                the industry, I am bilingual and I speak fluent Cantonese and English.
+                Sleek and clean with a little boldness is my approach to design.
+            </p>
+        </div>
+    </section>
+
     <!--Book me button/Projects section-->
     <section>
         <div class="container">
             <div class="row">
                 <div class="col text-center">
-                    <button type="button" class="btn btn-light" id="btn-bookme" data-toggle="modal"
+                    <button type="button" class="btn btn-light" id="bookme" data-toggle="modal"
                         data-target="#bookmeModal">
                         Book Me
                     </button>
@@ -99,7 +103,6 @@
         </div>
     </section>
 
-    <!--Back to top arrow-->
     <!--Footer section links to social media-->
     <footer class="container-fluid" id="footer">
         <div class="row no-gutters">
@@ -121,7 +124,7 @@
         <div class="modal-dialog modal-dialog-centered">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h1 class="modal-title bookme-modal-title" id="bookmeModalLabel">Book Me</h1>
+                    <h2 class="modal-title bookme-modal-title" id="bookmeModalLabel">Book Me</h2>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -140,8 +143,8 @@
                         </div>
                         <div class="form-group">
                             <label for="phone">Number:</label>
-                            <input class="contact-input" type="tel" name="phone" id="phone"
-                                placeholder="Phone Number" aria-label="Phone Number" required>
+                            <input class="contact-input" type="tel" name="phone" id="phone" placeholder="Phone Number"
+                                aria-label="Phone Number" required>
                         </div>
                         <div class="form-group">
                             <textarea class="contact-input" name="message" id="message" cols="25" rows="5" required
