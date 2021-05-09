@@ -1,7 +1,7 @@
 # <h1 align="center">Tessa Chan</h1>
 ![Mock Up](docs/mockup/mock_up.png)
 
-https://twschan.github.io/CI_MS1_Tessa_Chan/
+Website can be found [here](https://twschan.github.io/CI_MS1_Tessa_Chan/)
 
 ## Goal For this Project
 Welcome to Tessa Chan Designs! This is a portfolio website showcasing range of her past and latest projects as a graphic designer.
