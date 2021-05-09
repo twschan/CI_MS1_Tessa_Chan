@@ -1,6 +1,8 @@
 # <h1 align="center">Tessa Chan</h1>
 ![Mock Up](wireframe/mock_up.png)
 
+https://twschan.github.io/CI_MS1_Tessa_Chan/
+
 ## Goal For this Project
 Welcome to Tessa Chan Designs! This is a portfolio website showcasing range of her past and latest projects as a graphic designer.
 On this site you can find relevant information you need as a visitor, which grouped together in an appealing and accessible on a 

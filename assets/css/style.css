@@ -12,7 +12,7 @@ body {
 
 /* Padding/margin/text */
 
-.heading {
+h1 {
     font-family: "Raleway", sans-serif;
     text-align: center;
     margin-top: 9rem;
@@ -183,7 +183,7 @@ label {
 
 /* Hovers */
 
-.hightlight {
+.highlight {
     text-decoration: underline;
 }
 
