@@ -1,4 +1,5 @@
 # <h1 align="center">Tessa Chan</h1>
+![Mock Up](wireframe/mock_up.png)
 
 ## Goal For this Project
 Welcome to Tessa Chan Designs! This is a portfolio website showcasing range of her past and latest projects as a graphic designer.
@@ -64,8 +65,6 @@ decisions will come from the designer own personal designs.
 The colour scheme are mostly muted tones to give the subtleness to the website and also to make the images stand out.
 
 ![colour scheme](wireframe/colour-scheme.png)
-* #FFFFFF White - Use on navigation bar and the footer, good readability against
-darker shades so the main logo and designer name will stand out.
 * #F2F2F2 Light Gray - Primary background-colour use to bring attention to design 
 elements, good for dark on light designs.
 * #E7E1D3 Beige - Secondary background-colour can go well with lighter tone images.
