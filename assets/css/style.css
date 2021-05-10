@@ -21,7 +21,9 @@ h1 {
 }
 
 .text-bottom {
-    margin-top: 5rem;
+    margin-top: 8rem;
+    font-size: 50px;
+    font-weight: 600;
 }
 
 .text-property {
@@ -93,12 +95,12 @@ p {
 /* Carousel */
 
 .carousel {
-    width: 640px;
-    height: 360px;
-    top: 2rem;
-    margin-top: 4rem;
-    margin-bottom: 3rem;
+    width: 80%;
+    height: 80%;
+    top: 95px;
+    margin: auto;
 }
+
 
 /* Project section */
 
