@@ -93,10 +93,11 @@ p {
 /* Carousel */
 
 .carousel {
+    width: 640px;
+    height: 360px;
     top: 2rem;
-    margin-top: 3rem;
+    margin-top: 4rem;
     margin-bottom: 3rem;
-    bottom: auto;
 }
 
 /* Project section */
