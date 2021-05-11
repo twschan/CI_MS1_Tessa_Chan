@@ -16,12 +16,10 @@ h1 {
     font-family: "Raleway", sans-serif;
     text-align: center;
     margin-top: 10rem;
-    font-size: 40px;
     color: #5b5b5b;
 }
 
 .text-bottom {
-    margin-top: 8rem;
     font-size: 50px;
     font-weight: 600;
 }
@@ -71,10 +69,10 @@ p {
 }
 
 #navigation li a {
-    margin: 21px;
+    margin: 3px;
     font-family: "Montserrat", sans-serif;
-    padding: 16px;
-    line-height: 19px;
+    padding: 8px;
+    line-height: 25px;
     font-size: 1rem;
     color: #5b5b5b;
 }
@@ -97,7 +95,7 @@ p {
 .carousel {
     width: 80%;
     height: 80%;
-    top: 95px;
+    top: 78px;
     margin: auto;
 }
 
@@ -147,7 +145,7 @@ label {
 }
 
 #btn-bookme {
-    width: 11rem;
+    width: 8rem;
     margin-right: 30px;
     border: 3px solid #E7E1D3;
     border-radius: 30px;
@@ -220,21 +218,21 @@ label {
 
 /*--------------------------------- Media Queries */
 
-@media (min-width: 576px) {
-
+@media (min-width: 320px) {
     #navbar-name {
         padding-left: 20px;
         }
+}
 
+@media (min-width: 576px) {
+    
     #navigation li a {
         float: right;
         width: auto;
         height: 50px;
     }
 
-    .row {
-        justify-content: center;
-    }
+    
 
 }
 
