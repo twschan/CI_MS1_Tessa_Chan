@@ -97,18 +97,23 @@ p {
 
 .carousel {
     width: 80%;
-    height: 80%;
-    top: 90px;
+    top: 78px;
     margin: auto;
 }
 
 /* Icons */
 
 .icon-section {
-    margin: 4rem;
+    margin: 1rem;
     text-align: center;
     margin-left: -15px;
     margin-right: -15px;
+}
+
+.icon {
+    text-shadow: -19px -20px 3px #fdeadd;
+    margin-bottom: 25px;
+
 }
 
 /* Project section */
@@ -167,7 +172,7 @@ label {
 
 #bookme {
     width: 11rem;
-    margin: 8px 0;
+    margin: 26px 0;
     border: 3px solid #f2f2f2;
     border-radius: 35px;
     font-size: 20px;
