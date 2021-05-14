@@ -121,6 +121,7 @@ p {
 /* Project section */
 
 .projects {
+    text-align: -webkit-center;
     margin-bottom: -0.5rem;
     top: -2rem;
     padding: 8px 8px 20px;
@@ -262,7 +263,6 @@ label {
 
 @media (min-width: 576px) {
     
-
 }
 
 @media (min-width: 768px) {
