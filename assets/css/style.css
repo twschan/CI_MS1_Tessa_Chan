@@ -107,8 +107,14 @@ p {
 }
 
 .icon {
-    text-shadow: 20px 10px 6px #fdeadd;
+    background: #fdeadd;
+    border: 4px solid #f2f2f2;
+    padding: 20px;
+    border-radius: 50%;
     margin-bottom: 25px;
+    width: 120px;
+    height: 120px;
+    line-height: 65px;
 }
 
 .text {
@@ -148,26 +154,34 @@ p {
 .about-heading {
     font-weight: 700;
     font-size: 54px;
-    margin-top: 7rem;
+    margin-top: 3rem;
 }
 
 #photo-container {
     text-align: center;
-    margin-top: 9rem;
+    margin-top: 3rem;
     display: flex;
     justify-content: center;
+}
+
+.circle-title {
+    color: #5b5b5b;
+    position: sticky;
+    font-size: 32px;
+    top: 20rem;
 }
 
 #my-photo {
     max-width: 100%;
     border-radius: 50%;
-    border: 6px dashed #F2f2f2;
+    border: 6px dotted #F2f2f2;
 }
 
 .btn-bottom {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    bottom: 1rem;
 }
 
 /* Modal */
