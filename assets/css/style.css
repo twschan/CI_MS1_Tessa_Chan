@@ -54,6 +54,7 @@ p {
 .sub-heading {
     font-size: 20px;
     font-weight: 600;
+    margin: 1.5rem 0;
 }
 
 /* Header */
@@ -254,6 +255,17 @@ label {
     color: #5b5b5b;
 }
 
+.submit-button {
+    width: 70%;
+    background-color: #FDEADD;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    color: #5b5b5b;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
 /* Hovers */
 
 .highlight {
@@ -278,7 +290,7 @@ label {
     color: #FDEADD;
 }
 
-/* Contact */
+/* Contact/form */
 
 .map {
     border: 5px solid #f2f2f2;
@@ -286,6 +298,18 @@ label {
 
 .contact-info {
     display: block;
+}
+
+.form-input{
+    background-color: #F2f2f2;
+    border: none;
+    border-radius: 10px;
+    width: 90%;
+    height: 40px;
+}
+
+#message {
+    height: 120px;
 }
 
 /* Footer */
