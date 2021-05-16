@@ -4,7 +4,7 @@ body {
     background-color: #E7E1D3;
     color: #5b5b5b;
     font-family: "Raleway", sans-serif;
-    padding: 0;
+    padding-top: 4rem;
     margin: 0;
     position: relative;
     font-size: 20px;
@@ -16,13 +16,13 @@ body {
     font-weight: 700;
     font-size: 50px;
     text-align: center;
-    margin-top: 10rem;
+    margin-top: 5rem;
     margin-bottom: 5rem;
     color: #5b5b5b;
 }
 
 .text-bottom {
-    margin-top: 10rem;
+    margin-top: 5rem;
     font-size: 50px;
     font-weight: 700;
     text-align: center;
@@ -37,8 +37,9 @@ body {
 }
 
 p {
-    margin-top: 20px;
-    margin-bottom: 25px;
+    font-size: 18px;
+    margin-top: 36px;
+    margin-bottom: 36px;
 }
 
 /* Header */
@@ -93,7 +94,6 @@ p {
 
 .carousel {
     width: 80%;
-    top: 78px;
     margin: auto;
 }
 
@@ -117,7 +117,7 @@ p {
     margin-bottom: 3rem;
 }
 
-/* Project section */
+/* Portfolio section */
 
 .projects {
     text-align: -webkit-center;
@@ -131,7 +131,7 @@ p {
     margin-top: 2rem;
 }
 
-/* Overlay */
+/* Card Overlay */
 
 .ovl {
     opacity: 0;
@@ -143,6 +143,32 @@ p {
     background: rgb(231,225,211,0.6);
 }
 
+/* About section */
+
+.about-heading {
+    font-weight: 700;
+    font-size: 54px;
+    margin-top: 7rem;
+}
+
+#photo-container {
+    text-align: center;
+    margin-top: 9rem;
+    display: flex;
+    justify-content: center;
+}
+
+#my-photo {
+    max-width: 100%;
+    border-radius: 50%;
+    border: 6px dashed #F2f2f2;
+}
+
+.btn-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 
 /* Modal */
 
@@ -176,6 +202,13 @@ label {
     width: 8rem;
     margin-right: 30px;
     border: 3px solid #E7E1D3;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+#booknow {
+    width: 8rem;
+    border: 3px solid #f2f2f2;
     border-radius: 30px;
     padding: 5px;
 }
