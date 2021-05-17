@@ -152,6 +152,10 @@ p {
 
 /* Card Overlay */
 
+.card-img-overlay {
+    width: 360;
+}
+
 .ovl {
     opacity: 0;
     transition: 1s;
