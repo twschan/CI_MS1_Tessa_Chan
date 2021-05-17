@@ -300,6 +300,11 @@ label {
     display: block;
 }
 
+#contact-location a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .form-input{
     background-color: #F2f2f2;
     border: none;
