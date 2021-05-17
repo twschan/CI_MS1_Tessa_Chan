@@ -293,7 +293,7 @@ label {
 /* Contact/form */
 
 .map {
-    border: 5px solid #f2f2f2;
+    border: 1px dashed #5b5b5b;
 }
 
 .contact-info {
@@ -345,3 +345,14 @@ label {
 
 }
 
+@media (min-width: 576px) {
+    #contact-form {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    #contact-form {
+         text-align: revert;
+    }
+}
