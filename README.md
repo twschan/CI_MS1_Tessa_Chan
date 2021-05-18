@@ -1,5 +1,5 @@
 # <h1 align="center">Tessa Chan</h1>
-![Mock Up](docs/mockup/mock_up.png)
+![Mock Up](docs/mockup/mock-up.png)
 
 A deployed link to the website can be found [here](https://twschan.github.io/CI_MS1_Tessa_Chan/)
 
@@ -66,7 +66,7 @@ decisions will come from the designer own personal designs.
 ### Colour Scheme
 The colour scheme are mostly muted tones to give the subtleness to the website and also to make the images stand out.
 
-![colour scheme](docs/wireframe/colour-scheme.png)
+![colour scheme](docs/wireframe/colour-scheme.jpg)
 * #F2F2F2 Light Gray - Primary background-colour use to bring attention to design 
 elements, good for dark on light designs.
 * #E7E1D3 Beige - Secondary background-colour can go well with lighter tone images.
