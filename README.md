@@ -26,6 +26,10 @@ range of devices. The website is personalised by providing some information abou
   * [Features](#features)
      + [Existing Features](#existing-features)
      + [Features to Implement in the future](#features-to-implement-in-the-future)
+  * [Technologies](#technologies)
+     + [Languages Used](#languages-used)
+     + [Libraries Frameworks and Programs Used](#libraries-frameworks-and-programs-used)
+  * [Testing](#testing)
 
 
 
@@ -168,3 +172,42 @@ I have provided contacts and location details on the left and on the right is a 
 * Add a pricelist page, so user can see how much is the cost
 * Possibly testimonials/references of the user to enhance more credibility and trust
 * Interactive map for location with a link to google maps
+
+---
+# Technologies
+
+## Languages Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+## Libraries Frameworks and Programs Used
+* [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+  + To initial layout and styling before customising it
+* [Font Awesome](https://fontawesome.com/)
+  + Skills icons on homepage and social media icons in footer
+* [Google Fonts](https://fonts.google.com/)
+  + Used to import the Montserrat and Raleway fonts
+* [Git](https://git-scm.com/)
+  + Version control
+* [Gitpod](https://www.gitpod.io/)
+  + Used for editing my code
+* [Balsamiq](https://balsamiq.com/)
+  + Wireframes creation
+* [Am I responsive?](http://ami.responsivedesign.is/)
+  + This was used to generate the image of the website on different media
+* [Tiny JPG](https://tinypng.com/)
+  + To optimised the images I used on my site to minimise loading time 
+* [Chrome devtools](https://developer.chrome.com/docs/devtools/)
+  + This was used throughout development to troubleshoot, try out changes before changing codes, to test responsiveness and for testing performance of the final site with lighthouse.
+* [Favicon](https://favicon.io/)
+  + To make the site favicon
+* [Colormind](http://colormind.io/)
+  + Was used to display the colors shown in the color scheme section
+
+---
+# Testing 
+
+Further testing information and reports can be found [here](TESTING.md).
+
