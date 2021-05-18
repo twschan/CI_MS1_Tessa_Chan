@@ -19,7 +19,12 @@ range of devices. The website is personalised by providing some information abou
   * [Design Choices](#design-choices)
     + [Colour Scheme](#colour-scheme)
     + [Typography](#typography)
-    + 
+    + [Icon](#icon)
+    + [Imagery](#imagery)
+    + [Structure](#structure)
+  * [Wireframes](#wireframes)
+  * [Features](#features)
+     + [Existing Features](#existing-features)
 
 
 
@@ -71,7 +76,7 @@ opportunities, collabrations and networking.
 * Clear information on each projects.
 ---
 
-## Design Choices
+# Design Choices
 
 The style will be based on a minimalistic and simplicity approach that shows of the designer's
 projects and make it more eye catching, a website that is subtle with good readability also an easy flow and navigation.
@@ -103,14 +108,15 @@ catch the users attention. All of the projects, logo and private owned images ar
 the site owner and the portrait used are the site owner photo.
 
 ### Structure
-This website will consist three seperate pages a homepage (index.html), projects page,
-about page and a contact form and also a link to download CV and pricelist.
+This website will consist four seperate pages a homepage (index.html), portfolio page, about page and a contact page with a contact form and also a link to download CV.
 I have will be using [Bootstrap](https://getbootstrap.com/) to create an overall structure 
 for the website, a Modal component to create the contact form and Carousel component for images for 
 the homepage, the navigation bar will also be fixed on top. A responsive design will be added to the navbar and on small/mobile devices it will
-condense into a hamburger icon that will have a toggle to view the nav menu and its associated links.
+condense into a hamburger icon that will have a toggle to view the nav menu and it's associated links.
 This will save screen space and keep to conventions users are expecting.
- 
+
+---
+
 # Wireframes
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
@@ -118,3 +124,38 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 * Desktop Wireframe [View](docs/wireframe/desktop_wireframe.pdf)
 * Tablet Wireframe [View](docs/wireframe/tablet_wireframe.pdf)
 * Mobile Wireframe [View](docs/wireframe/mobile_wireframe.pdf)
+
+---
+
+# Features
+
+## Existing Features
+
+### Navigation
+
+I have used Bootstrap to create a responsive navbar and implemented as well the 
+hamburger icon for mobile devices to be more user-friendly. I decided to keep the navbar fixed on the top of the page, so user can easily navigate to other pages.
+
+### Carousel - slideshow of images
+
+I have decided to implement a Carousel across the index page, in order to make user curious about the designers portfolio. As it shows a few images at a time of her works.
+
+### Introduction - Hello
+
+Just a short Introduction about the designer herself. I have chosen to use icons from font awesome to showcase her skills of what she can do as a designer.
+
+### Book Now & Modal
+
+For the modal this will be used in the index page and the about page. This allow users to book a job with the designer by opening up a modal form. The book now button is also placed in the index page at the top and bottom, so the user won't need to scroll back up to find the button.
+
+### Portfolio page
+
+Here I used a grid from Bootstrap and card components with text overlay. It was more chanllenging, I implemented 9 images of the designer's work. By making sure I have used the correct grid system and responsive on all media also the images are spread evenly across the page. Then for the text overlay which provides information with a hover effect.
+
+### About page
+
+A photo of the designer with a hover effect and a link titled 'Show more' which will take the user to her portfolio page. Also a brief description about her, with background information and her education. Below the text there will also be a book now button with a modal pop up.
+
+### Contact page
+
+I have provided contacts and location details on the left and on the right is a contact form which users can fill in if they would like to get in contact with the site owner. I have also included a 'download CV' link for the user to download the CV on a new page.
