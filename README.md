@@ -8,6 +8,21 @@ Welcome to Tessa Chan Designs! This is a portfolio website showcasing range of h
 On this site you can find relevant information you need as a visitor, which grouped together in an appealing and accessible on a 
 range of devices. The website is personalised by providing some information about the designer and images of her past and latest projects.
 
+## Contents
+
+- [User experience (UX)](#user-experience-(ux))
+  * [User Goals](#user-goals)
+  * [Site Owner Goals](#site-owner-goals)
+  * [User Requirements and Expectations](#user-requirements-and-expectations)
+    + [Requirements](#requirements)
+    + [Expectations](#expectations)
+  * [Design Choices](#design-choices)
+    + [Colour Scheme](#colour-scheme)
+    + [Typography](#typography)
+    + 
+
+
+
 ---
 # User experience (UX)
 
