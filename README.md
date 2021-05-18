@@ -25,6 +25,7 @@ range of devices. The website is personalised by providing some information abou
   * [Wireframes](#wireframes)
   * [Features](#features)
      + [Existing Features](#existing-features)
+     + [Features to Implement in the future](#features-to-implement-in-the-future)
 
 
 
@@ -159,3 +160,11 @@ A photo of the designer with a hover effect and a link titled 'Show more' which 
 ### Contact page
 
 I have provided contacts and location details on the left and on the right is a contact form which users can fill in if they would like to get in contact with the site owner. I have also included a 'download CV' link for the user to download the CV on a new page.
+
+## Features to Implement in the future
+
+* Open images into another link with more details about each projects
+* To implement the email function to deliver the messages from the user to the site owner. As well as letting the user verify their email
+* Add a pricelist page, so user can see how much is the cost
+* Possibly testimonials/references of the user to enhance more credibility and trust
+* Interactive map for location with a link to google maps
