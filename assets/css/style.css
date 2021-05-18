@@ -52,6 +52,7 @@ p {
 }
 
 .sub-heading {
+    letter-spacing: 1px;
     font-size: 20px;
     font-weight: 600;
     margin: 1.5rem 0;
@@ -151,10 +152,6 @@ p {
 }
 
 /* Card Overlay */
-
-.card-img-overlay {
-    width: 360;
-}
 
 .ovl {
     opacity: 0;
@@ -305,6 +302,7 @@ label {
 }
 
 #contact-location a {
+    font-weight: 600;
     text-decoration: none;
     color: inherit;
 }
