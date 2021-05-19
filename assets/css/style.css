@@ -331,7 +331,6 @@ a:hover {
 
 .footer {
     background-color: #f2f2f2;
-    width: 100%;
     text-align: center;
     min-height: 5rem;
 }
@@ -372,7 +371,7 @@ a:hover {
 
 @media (min-width: 768px) {
     #contact-form {
-         text-align: revert;
+         text-align: inherit;
     }
 }
 
