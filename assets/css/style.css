@@ -331,10 +331,9 @@ a:hover {
 
 .footer {
     background-color: #f2f2f2;
-    display: flex;
-    justify-content: center;
-    padding: 4px;
     width: 100%;
+    text-align: center;
+    min-height: 5rem;
 }
 
 .social-links a {
@@ -347,7 +346,7 @@ a:hover {
 
 /*--------------------------------- Media Queries */
 
-@media (min-width: 320px) {
+@media (min-width: 320px){
     #navbar-name {
         padding-left: 20px;
         }
@@ -358,10 +357,11 @@ a:hover {
         margin-top: 35px;
     }
 
-    #se-footer {
-        width: 116%;
-    }
+}
 
+@media (max-width: 320px) {
+    #se-footer {width: 115%;
+    }
 }
 
 @media (min-width: 576px) {
