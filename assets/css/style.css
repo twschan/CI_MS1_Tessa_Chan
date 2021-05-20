@@ -189,6 +189,10 @@ p {
     border: 6px dotted #F2f2f2;
 }
 
+.circular-portrait {
+    border-radius: 50%;
+}
+
 .btn-bottom {
     display: flex;
     flex-direction: row;
