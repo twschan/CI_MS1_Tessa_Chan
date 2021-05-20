@@ -126,9 +126,9 @@ This will save screen space and keep to conventions users are expecting.
 The wireframes are created by using the program [Balsamic](https://balsamiq.com/wireframes/). I created the mobile 
 wireframe first so I get a rough idea what I want it to look like on a small media then moved onto tablet then desktop.
 
-* Desktop Wireframe [View](docs/wireframe/desktop_wireframe.pdf)
-* Tablet Wireframe [View](docs/wireframe/tablet_wireframe.pdf)
-* Mobile Wireframe [View](docs/wireframe/mobile_wireframe.pdf)
+* Desktop Wireframe [View](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/wireframe/desktop-wireframe.pdf)
+* Tablet Wireframe [View](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/wireframe/tablet-wireframe.pdf)
+* Mobile Wireframe [View](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/wireframe/mobile-wireframe.pdf)
 
 ---
 
