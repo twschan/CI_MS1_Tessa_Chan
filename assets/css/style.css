@@ -41,8 +41,12 @@ body {
 .about-heading {
     font-weight: 700;
     font-size: 54px;
-    margin-top: 3rem;
+    margin-top: 7rem;
     letter-spacing: 3px;
+}
+
+.first-paragraph {
+    margin-bottom: -6rem;
 }
 
 p {
@@ -191,8 +195,8 @@ p {
 
 .circular-portrait {
     border-radius: 50%;
-    border: 2px dotted;
-    margin-bottom: 20px;
+    border: 3px dotted #f2f2f2;
+    margin: 55px 0px 20px;
 }
 
 .btn-bottom {
