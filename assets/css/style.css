@@ -171,7 +171,7 @@ p {
 
 #photo-container {
     text-align: center;
-    margin-top: 9rem;
+    margin-top: 3rem;
     display: flex;
     justify-content: center;
 }
@@ -184,13 +184,15 @@ p {
 }
 
 #my-photo {
-    max-width: 100%;
+    width: 60%;
     border-radius: 50%;
     border: 6px dotted #F2f2f2;
 }
 
 .circular-portrait {
     border-radius: 50%;
+    border: 2px dotted;
+    margin-bottom: 20px;
 }
 
 .btn-bottom {
@@ -360,10 +362,19 @@ a:hover {
         margin-top: 35px;
     }
 
+}    
+
+@media (min-width: 320px) and (max-width: 768px){
+    .circle-title {
+        font-size: 18px;
+        top: 13rem;
+    }
+
 }
 
 @media (max-width: 320px) {
-    #se-footer {width: 115%;
+    #se-footer {
+        width: 115%;
     }
 }
 
