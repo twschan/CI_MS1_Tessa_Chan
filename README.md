@@ -263,3 +263,15 @@ The live link for the site is here [https://github.com/twschan/CI_MS1_Tessa_Chan
 3. Creates a duplicate of the full project in your Github Repository.
 
 #### [Back to top](<#contents>)
+---
+# Credits
+### Code
+
+* Bootstrap responsive modal adapted from [Codepen](https://codepen.io/DivisonMusic/pen/ewgrPB)
+* 
+* Image hover overlay used in my portfolio page with the help of [
+System 22 I.T. Solutions](https://www.youtube.com/watch?v=g5ewPg9kZxc&t=941s&ab_channel=System22I.T.SolutionsSystem22I.T.Solutions) youtube videos.
+* Bootstrap 4 carousel to be more responsive on different media [
+System 22 I.T. Solutions](https://www.youtube.com/c/System22Net/search?query=bootstrap%20carousel)
+*
+
