@@ -16,20 +16,27 @@ range of devices. The website is personalised by providing some information abou
   * [User Requirements and Expectations](#user-requirements-and-expectations)
     + [Requirements](#requirements)
     + [Expectations](#expectations)
+
   * [Design Choices](#design-choices)
     + [Colour Scheme](#colour-scheme)
     + [Typography](#typography)
     + [Icon](#icon)
     + [Imagery](#imagery)
     + [Structure](#structure)
+
   * [Wireframes](#wireframes)
+
   * [Features](#features)
      + [Existing Features](#existing-features)
      + [Features to Implement in the future](#features-to-implement-in-the-future)
+
   * [Technologies](#technologies)
      + [Languages Used](#languages-used)
      + [Libraries Frameworks and Programs Used](#libraries-frameworks-and-programs-used)
+
   * [Testing](#testing)
+
+  * [Deployment](#deployment)
 
 
 
@@ -210,4 +217,21 @@ I have provided contacts and location details on the left and on the right is a 
 # Testing 
 
 Further testing information and reports can be found [here](TESTING.md).
+
+---
+# Deployment
+
+### Project creation
+Navigate to the [template](https://github.com/Code-Institute-Org/gitpod-full-template) and click 'Use this template'. Put in Repository name (CI_MS1_Tessa_Chan) and check the include all branches checkbox. Then navigate to the new [repository](https://github.com/twschan/CI_MS1_Tessa_Chan).
+
+The following commands were used for version control throughout the project: 
++ ```git status``` (check which files have been modified or added, and ready to be committed)
++ ```git add . ``` or ```git add <filename>``` (add all changed files, or specific files within the project directory to be committed)
++ ```git commit -m "[TYPE] Reason"``` (commit changes to the local repository)
++ ```git push``` (push all committed changes to Github Repository)
+
+
+
+
+
 
