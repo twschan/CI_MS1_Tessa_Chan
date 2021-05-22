@@ -52,7 +52,6 @@ body {
 p {
     font-size: 18px;
     margin-top: 36px;
-    margin-bottom: 36px;
 }
 
 .sub-heading {
@@ -191,6 +190,11 @@ p {
     width: 60%;
     border-radius: 50%;
     border: 6px dotted #F2f2f2;
+}
+
+#first-image {
+    margin-top: 18px;
+    float: right;
 }
 
 .circular-portrait {
@@ -375,6 +379,13 @@ a:hover {
     }
 
 }
+
+@media (min-width: 320px) and (max-width: 1024px){
+    #first-image {
+        margin-top: 65px;
+        float: none;
+    }
+} 
 
 @media (max-width: 320px) {
     #se-footer {
