@@ -86,6 +86,7 @@ opportunities, collabrations and networking.
 * I expect a message to be entered when submitting the contact form and that the form has been submitted correctly.
 * I expect the navigation links to work properly so that it takes me to wherever I want to go.
 * Clear information on each projects.
+#### [Back to top](<#contents>)
 ---
 
 # Design Choices
@@ -126,7 +127,7 @@ for the website, a Modal component to create the contact form and Carousel compo
 the homepage, the navigation bar will also be fixed on top. A responsive design will be added to the navbar and on small/mobile devices it will
 condense into a hamburger icon that will have a toggle to view the nav menu and it's associated links.
 This will save screen space and keep to conventions users are expecting.
-
+#### [Back to top](<#contents>)
 ---
 
 # Wireframes
@@ -137,6 +138,7 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 * Tablet Wireframe [View](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/wireframe/tablet-wireframe.pdf)
 * Mobile Wireframe [View](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/wireframe/mobile-wireframe.pdf)
 
+#### [Back to top](<#contents>)
 ---
 
 # Features
@@ -180,6 +182,7 @@ I have provided contacts and location details on the left and on the right is a 
 * Possibly testimonials/references of the user to enhance more credibility and trust
 * Interactive map for location with a link to google maps
 
+#### [Back to top](<#contents>)
 ---
 # Technologies
 
@@ -213,6 +216,8 @@ I have provided contacts and location details on the left and on the right is a 
 * [Colormind](http://colormind.io/)
   + Was used to display the colors shown in the color scheme section
 
+#### [Back to top](<#contents>)
+
 ---
 # Testing 
 
@@ -230,8 +235,31 @@ The following commands were used for version control throughout the project:
 + ```git commit -m "[TYPE] Reason"``` (commit changes to the local repository)
 + ```git push``` (push all committed changes to Github Repository)
 
+### Deployment to Github pages
 
+1. Push project to Github. Navigate and log into the Github site.
+2. Go to repositories and select the one associated to the project: [CI_MS1_Tessa_Chan](https://github.com/twschan/CI_MS1_Tessa_Chan).
+3. On the main repository, click "Settings" and scroll to "Github pages".
+4. Under "Source" select "Master Branch" and click "Save".
+5. Click on the link to go to the live deployed page.
 
+The live link for the site is here [https://github.com/twschan/CI_MS1_Tessa_Chan](https://github.com/twschan/CI_MS1_Tessa_Chan)
 
+### Create a local clone
 
+1. Open Github and navigate to repository [here](https://github.com/twschan/CI_MS1_Tessa_Chan).
+2. Click the code drop down menu.
+3. Options:
+* Download the ZIP file, unpack locally and open with IDE.
+* Copy git URL from HTTPS dialogue box.
+4. Open your chosen IDE and open terminal in a directory.
+5. Use ```git clone``` command with the copied git URL after.
+6. Clone of the project is created locally on your machine.
 
+### Fork Project 
+
+1. Navigate to the Github Repository you want to [fork](https://github.com/twschan/CI_MS1_Tessa_Chan).
+2. On the top right of the page under the header, click the fork button.
+3. Creates a duplicate of the full project in your Github Repository.
+
+#### [Back to top](<#contents>)
