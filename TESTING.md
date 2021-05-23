@@ -37,3 +37,53 @@ Click on the page name to see the result: [Home](https://github.com/twschan/CI_M
 Click on the page name to see the result: [Home](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/validation/lighthouse-performance/index.png) [Portfolio](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/validation/lighthouse-performance/portfolio.png) [About](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/validation/lighthouse-performance/about.png) [Contact](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/validation/lighthouse-performance/contact.png)
 
 #### [Back to top](<#contents>)
+---
+
+# Testing user Stories
+
+### First time user
+
+*1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.*
+
+#### Feature
+1. Find images of the site owner projects being displayed across the home page.
+2. Below is a short introduction about herself, also showcasing her skills.
+#### Action
+1. Upon loading the website first you land on is the home page a slideshow of her projects.
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-1.1.png) 
+2. Scroll down you find the information.  
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-1.2.png)
+
+*2. As a First Time Visitor, I want to easily find out information about the designer.*
+
+#### Feature
+1. Social media links in the footer of all pages.
+2. Contact page will have all the details you need to contact site owner. 
+#### Action
+1. Scroll to the end of any page.
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-2.1.png)
+2. Go to contact page from the nav bar.
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-2.2.png)
+
+*3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.*
+
+#### Feature
+#### Action
+
+
+*4. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.*
+
+#### Feature
+#### Action
+
+
+*5. As a First Time Visitor, I want to find information about her projects and various images about her designs.*
+
+#### Feature
+#### Action
+
+
+*6. As a First Time Visitor, I want to be able to reach out to the designer via the website.*
+
+#### Feature
+#### Action
