@@ -149,20 +149,23 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 
 ### Navigation
 
-I have used Bootstrap to create a responsive navbar and implemented as well the 
-hamburger icon for mobile devices to be more user-friendly. I decided to keep the navbar fixed on the top of the page, so user can easily navigate to other pages.
+1. I have used Bootstrap to create a responsive navbar and implemented as well the hamburger icon for mobile devices to be more user-friendly. ![Hambuger Icon](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-hamburger.png)
+2. I decided to keep the navbar fixed on the top of the page, so user can easily navigate to other pages. ![Fixed Navbar](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-navbar.png)
 
 ### Carousel - slideshow of images
 
-I have decided to implement a Carousel across the index page, in order to make user curious about the designers portfolio. As it shows a few images at a time of her works.
+1. I have decided to implement a Carousel across the index page, in order to make user curious about the designers portfolio. As it shows a few images at a time of her works. ![Carousel](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-2-carousel.png)
 
 ### Introduction - Hello
 
-Just a short Introduction about the designer herself. I have chosen to use icons from font awesome to showcase her skills of what she can do as a designer.
+1. Just a short Introduction about the designer herself. ![Introduction](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-3-hello.png)
+2. I have chosen to use icons from font awesome to showcase her skills of what she can do as a designer. ![Skills icon](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-3-icons.png)
 
 ### Book Now & Modal
 
-For the modal this will be used in the index page and the about page. This allow users to book a job with the designer by opening up a modal form. The book now button is also placed in the index page at the top and bottom, so the user won't need to scroll back up to find the button.
+1. For the modal this will be used in the index page and the about page. This allow users to book a job with the designer by opening up a modal form. 
+2. The book now button is also placed in the index page at the top. ![Top book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-top.png)
+3. And bottom so the user won't need to scroll back up to find the button. ![Bottom book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-bottom.png)
 
 ### Portfolio page
 
