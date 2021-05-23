@@ -71,8 +71,7 @@ range of devices. The website is personalised by providing some information abou
 #### Site Owner Goals
 10. As a site owner, I want users to see projects that showcase skills and growth.
 11. As a site owner, I want to connect to potential jobs and projects.
-12. As a site owner, I want to be able to contact the site owner easily for hire 
-opportunities, collabrations and networking.
+12. As a site owner, I want users to be able to contact the site owner easily for hire opportunities, collabrations and networking.
 
 ### User Requirements and Expectations
 
@@ -153,14 +152,24 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 ![Hambuger Icon](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-hamburger.png)
 2. I decided to keep the navbar fixed on the top of the page, so user can easily navigate to other pages. ![Fixed Navbar](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-navbar.png)
 
+**User stories covered by this feature:**
+1. 3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.
+
 ### Carousel - slideshow of images
 
 1. I have decided to implement a Carousel across the index page, in order to make user curious about the designers portfolio. As it shows a few images at a time of her works. ![Carousel](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-2-carousel.png)
+
+**User stories covered by this feature:**
+1. 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.
 
 ### Introduction - Hello
 
 1. Just a short Introduction about the designer herself. ![Introduction](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-3-hello.png)
 2. I have chosen to use icons from font awesome to showcase her skills of what she can do as a designer. ![Skills icon](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-3-icons.png)
+
+**User stories covered by this feature:**
+1. 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.
+2. 2. As a First Time Visitor, I want to easily find out information about the designer.
 
 ### Book Now & Modal
 
@@ -168,10 +177,22 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 2. The book now button is also placed in the index page at the top. ![Top book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-top.png)
 3. And bottom so the user won't need to scroll back up to find the button. ![Bottom book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-bottom.png)
 
+**User stories covered by this feature:**
+
+1. 2. As a First Time Visitor, I want to easily find out information about the designer.
+2. 6. As a First Time Visitor, I want to be able to reach out to the designer via the website.
+3. 11. As a site owner, I want to connect to potential jobs and projects.
+4. 12. As a site owner, I want users to be able to contact the site owner easily for hire opportunities, collabrations and networking.
+
 ### Portfolio page
 
 1. Here I used a grid from Bootstrap and card components with text overlay. It was more chanllenging, I implemented 9 images of the designer's work. By making sure I have used the correct grid system and responsive on all media also the images are spread evenly across the page. ![Portfolio](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-portfolio.png)
 2. Then for the text overlay which provides information with a hover effect. ![Text Overlay](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-overlay.png)
+
+**User stories covered by this feature:**
+
+1. 5. As a First Time Visitor, I want to find information about her projects and various images about her designs.
+2. 10. As a site owner, I want users to see projects that showcase skills and growth.
 
 ### About page
 
@@ -179,11 +200,26 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 2. Also a brief description about her, with background information and her education. ![About](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-6-aboutme.png)
 3. Below the text there will also be a book now button with a modal pop up. ![Bottom book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-aboutpage.png)
 
+**User stories covered by this feature:**
+1. 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.
+2. 2. As a First Time Visitor, I want to easily find out information about the designer.
+3. 6. As a First Time Visitor, I want to be able to reach out to the designer via the website.
+
 ### Contact page
 
 1. I have provided contacts and location details on the left. ![Contact details](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-contactdetails.png)
 2. On the right is a contact form which users can fill in if they would like to get in contact with the site owner. ![Contact form](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-contactform.png)
 3. I have also included a 'download CV' link for the user to download the CV on a new page. ![CV link](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-cvlink.png)
+
+**User stories covered by this feature:**
+1. 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.
+2. 2. As a First Time Visitor, I want to easily find out information about the designer.
+3. 3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.
+4. 6. As a First Time Visitor, I want to be able to reach out to the designer via the website.
+5. 8. As a Returning Visitor, I want to find the best way to get in contact with the designer with any questions I may have.
+6. 9. As a Returning Visitor, I want to be able to get a downloadable CV of the site owner to easily share with others.
+7. 11. As a site owner, I want to connect to potential jobs and projects.
+8. 12. As a site owner, I want users to be able to contact the site owner easily for hire opportunities, collabrations and networking.
 
 ## Features to Implement in the future
 
