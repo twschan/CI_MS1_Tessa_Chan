@@ -267,15 +267,26 @@ The live link for the site is here [https://github.com/twschan/CI_MS1_Tessa_Chan
 #### [Back to top](<#contents>)
 ---
 # Credits
-### Code
+## Code
 
+* WSC Schools for [responsive navbar](https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp) and [CSS forms](https://www.w3schools.com/css/css_form.asp) 
 * Bootstrap responsive modal adapted from [Codepen](https://codepen.io/DivisonMusic/pen/ewgrPB)
 * Stack Overflow for [modal pop up to appear infront](https://stackoverflow.com/questions/34755770/modal-appear-behind-fixed-navbar) and not behind fixed navigation bar. For [customising style](https://stackoverflow.com/questions/20854035/is-it-possible-to-customize-style-of-bootstrap-modal) on the modal and how it appears.
-* WSC Schools for [responsive navbar](https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp). For [CSS forms](https://www.w3schools.com/css/css_form.asp) 
+* Ways to optimise images for better web design and SEO on [Jimdo](https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/#:~:text=If%20you're%20wondering%20about,saved%20and%20uploaded%20as%20JPGs.) guide.
 * Image hover overlay used in my portfolio page with the help of [
 System 22 I.T. Solutions](https://www.youtube.com/watch?v=g5ewPg9kZxc&t=941s&ab_channel=System22I.T.SolutionsSystem22I.T.Solutions) youtube videos.
 * Bootstrap 4 carousel to be more responsive on different media [
-System 22 I.T. Solutions](https://www.youtube.com/c/System22Net/search?query=bootstrap%20carousel)
+System 22 I.T. Solutions](https://www.youtube.com/c/System22Net/search?query=bootstrap%20carousel) youtube videos.
 * Creating a [circular background](https://markheath.net/post/font-awesome-circle-background) for font awesome icons.
 * A guide written on [CSS tricks](https://css-tricks.com/guides/) for flexbox, media queries and grid.
 
+## Media
+
+### All images, portfolio and text content are owned by the site owner.
+
+#### [Back to top](<#contents>)
+
+## Acknowledgements
+* To my sister Tessa Chan for letting me use this opportunity to develope a website for her and feedback on this project.
+* I would like to thank my mentor Mo Shami for all his feedback, advice and support throughout our project calls.
+* Thanks to the Code Institute slack community of students for their helpful advice, guidance and support. 
