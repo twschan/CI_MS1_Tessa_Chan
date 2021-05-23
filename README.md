@@ -149,7 +149,8 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 
 ### Navigation
 
-1. I have used Bootstrap to create a responsive navbar and implemented as well the hamburger icon for mobile devices to be more user-friendly. ![Hambuger Icon](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-hamburger.png)
+1. I have used Bootstrap to create a responsive navbar and implemented as well the hamburger icon for mobile devices to be more user-friendly. 
+![Hambuger Icon](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-hamburger.png)
 2. I decided to keep the navbar fixed on the top of the page, so user can easily navigate to other pages. ![Fixed Navbar](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-1-navbar.png)
 
 ### Carousel - slideshow of images
@@ -163,21 +164,26 @@ wireframe first so I get a rough idea what I want it to look like on a small med
 
 ### Book Now & Modal
 
-1. For the modal this will be used in the index page and the about page. This allow users to book a job with the designer by opening up a modal form. 
+1. For the modal this will be used in the index page and the about page. This allow users to book a job with the designer by opening up a modal form. ![Modal](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-modal.png) ![Book now button opens up modal](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-aboutpage.png)
 2. The book now button is also placed in the index page at the top. ![Top book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-top.png)
 3. And bottom so the user won't need to scroll back up to find the button. ![Bottom book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-bottom.png)
 
 ### Portfolio page
 
-Here I used a grid from Bootstrap and card components with text overlay. It was more chanllenging, I implemented 9 images of the designer's work. By making sure I have used the correct grid system and responsive on all media also the images are spread evenly across the page. Then for the text overlay which provides information with a hover effect.
+1. Here I used a grid from Bootstrap and card components with text overlay. It was more chanllenging, I implemented 9 images of the designer's work. By making sure I have used the correct grid system and responsive on all media also the images are spread evenly across the page. ![Portfolio](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-portfolio.png)
+2. Then for the text overlay which provides information with a hover effect. ![Text Overlay](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-overlay.png)
 
 ### About page
 
-A photo of the designer with a hover effect and a link titled 'Show more' which will take the user to her portfolio page. Also a brief description about her, with background information and her education. Below the text there will also be a book now button with a modal pop up.
+1. A photo of the designer with a hover effect and a link titled 'Show more' which will take the user to her portfolio page. ![Show more](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-6-aboutpage.png)
+2. Also a brief description about her, with background information and her education. ![About](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-6-aboutme.png)
+3. Below the text there will also be a book now button with a modal pop up. ![Bottom book now](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-4-aboutpage.png)
 
 ### Contact page
 
-I have provided contacts and location details on the left and on the right is a contact form which users can fill in if they would like to get in contact with the site owner. I have also included a 'download CV' link for the user to download the CV on a new page.
+1. I have provided contacts and location details on the left. ![Contact details](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-contactdetails.png)
+2. On the right is a contact form which users can fill in if they would like to get in contact with the site owner. ![Contact form](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-contactform.png)
+3. I have also included a 'download CV' link for the user to download the CV on a new page. ![CV link](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-cvlink.png)
 
 ## Features to Implement in the future
 
