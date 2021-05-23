@@ -10,21 +10,19 @@ range of devices. The website is personalised by providing some information abou
 
 ## Contents
 
-- [User experience (UX)](#user-experience-(ux))
-  * [User Goals](#user-goals)
-  * [Site Owner Goals](#site-owner-goals)
-  * [User Requirements and Expectations](#user-requirements-and-expectations)
+* [User experience (UX)](#user-experience-(ux))
+     + [User Goals](#user-goals)
+     + [Site Owner Goals](#site-owner-goals)
+* [User Requirements and Expectations](#user-requirements-and-expectations)
     + [Requirements](#requirements)
     + [Expectations](#expectations)
-
-  * [Design Choices](#design-choices)
+*  [Design Choices](#design-choices)
     + [Colour Scheme](#colour-scheme)
     + [Typography](#typography)
     + [Icon](#icon)
     + [Imagery](#imagery)
     + [Structure](#structure)
-
-  * [Wireframes](#wireframes)
+*  [Wireframes](#wireframes)
 
   * [Features](#features)
      + [Existing Features](#existing-features)
@@ -39,6 +37,8 @@ range of devices. The website is personalised by providing some information abou
   * [Deployment](#deployment)
 
   * [Credits](#credits)
+
+  * [Acknowledgements](#acknowledgements)
 
 
 
@@ -285,8 +285,11 @@ System 22 I.T. Solutions](https://www.youtube.com/c/System22Net/search?query=boo
 ### All images, portfolio and text content are owned by the site owner.
 
 #### [Back to top](<#contents>)
+---
 
-## Acknowledgements
+# Acknowledgements
 * To my sister Tessa Chan for letting me use this opportunity to develope a website for her and feedback on this project.
 * I would like to thank my mentor Mo Shami for all his feedback, advice and support throughout our project calls.
 * Thanks to the Code Institute slack community of students for their helpful advice, guidance and support. 
+
+#### [Back to top](<#contents>)
