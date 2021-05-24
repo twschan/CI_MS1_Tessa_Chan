@@ -6,7 +6,7 @@
       + [CSS validation](#css-validation)
       + [Accessibility](#accessibility)
       + [Performance](#performance)
-   * [Testing User Stories]()
+   * [Testing User Stories](#testing-user-stories)
    * [Manual testing]()
    * [Bugs found and resolved during development]()
 
@@ -45,10 +45,11 @@ Click on the page name to see the result: [Home](https://github.com/twschan/CI_M
 
 *1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the designer.*
 
-#### Feature
+Feature:
 1. Find images of the site owner projects being displayed across the home page.
 2. Below is a short introduction about herself, also showcasing her skills.
-#### Action
+
+Action:
 1. Upon loading the website first you land on is the home page a slideshow of her projects.
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-1.1.png) 
 2. Scroll down you find the information.  
@@ -56,10 +57,11 @@ Click on the page name to see the result: [Home](https://github.com/twschan/CI_M
 
 *2. As a First Time Visitor, I want to easily find out information about the designer.*
 
-#### Feature
+Feature:
 1. Social media links in the footer of all pages.
 2. Contact page will have all the details you need to contact site owner. 
-#### Action
+
+Action:
 1. Scroll to the end of any page.
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-2.1.png)
 2. Go to contact page from the nav bar.
@@ -67,23 +69,49 @@ Click on the page name to see the result: [Home](https://github.com/twschan/CI_M
 
 *3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.*
 
-#### Feature
-#### Action
+Feature:
+1. Aria labels, screen reader only text and alternative text have been used throughout the site. The use of hover indicates whats been hightlighted before you click on it and underline link shows which page you are on.
+2. Shows the site owner location where her studio is based with a map.
+
+Action:
+1. Hover over the nav bar, on social links and the header 'Tessa Chan' will take you back to home page.
+
+    [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-3.1.png)
+
+    [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/User-3-1.png)
+
+2. Go to contact page, a google map showing the location is implemented on the page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-3.2.png)
 
 
 *4. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.*
 
-#### Feature
-#### Action
+Feature:
+1. Social media links are placed on the footer of all pages.
 
+Action:
+1. To locate them just scroll down, you'll see it's placed in the center of the page.
+[Screenshot show user story]()
 
 *5. As a First Time Visitor, I want to find information about her projects and various images about her designs.*
 
-#### Feature
-#### Action
+Feature:
+1. All the site owner projects will be on the portfolio page and information can be found by hovering over the image.
+2. On the about page, a photo of the site owner hover over and a link titled 'Show more' which will take the user to her portfolio page.
 
+Action:
+1. Go to portfolio page from the nav bar and all images is displayed in the center of the page, there is 9 projects altogether.
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-5.1.png)
+2. Go to about from navigation bar, on the page hover over the photo 'show more' will appear then click on it.
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-5.2.png)
 
 *6. As a First Time Visitor, I want to be able to reach out to the designer via the website.*
 
-#### Feature
-#### Action
+Feature:
+1. 'Book now' modal form are placed on serveral pages. A consistent call-to-action throughout the site and drive users to contact site owner. There's also a contact form on contact page for quicker access to contact site owner.
+
+Action:
+1. To locate the 'Book now' buttons which can be found the top and button of the home page, and the bottom of the about page. For mobile users it will be placed on the bottom. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/User-6-1.png)
+
+   On contact page scroll down. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-2.2.png)
+
+   A modal form will also pop up when 'Book now' buttons been clicked. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-6.1.png)
