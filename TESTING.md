@@ -90,7 +90,7 @@ Feature:
 
 Action:
 1. To locate them just scroll down, you'll see it's placed in the center of the page.
-[Screenshot show user story]()
+[Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-4.1.png)
 
 *5. As a First Time Visitor, I want to find information about her projects and various images about her designs.*
 
