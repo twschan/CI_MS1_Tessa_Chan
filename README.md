@@ -196,7 +196,7 @@ User story 12: As a site owner, I want users to be able to contact the site owne
 
 ### Portfolio page
 
-1. Here I used a grid from Bootstrap and card components with text overlay. It was more chanllenging, I implemented 9 images of the designer's work. By making sure I have used the correct grid system and responsive on all media also the images are spread evenly across the page. ![Portfolio](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-portfolio.png)
+1. Here I used a grid from Bootstrap and card components with text overlay. It was more challenging, I implemented 9 images of the designer's work. By making sure I have used the correct grid system and responsive on all media also the images are spread evenly across the page. ![Portfolio](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-portfolio.png)
 2. Then for the text overlay which provides information with a hover effect. ![Text Overlay](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-overlay.png)
 
 **User stories covered by this feature:**
