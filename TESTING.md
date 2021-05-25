@@ -84,7 +84,7 @@ Actual result: Both works as expected
 *3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.*
 
 Feature:
-1. Aria labels, screen reader only text and alternative text have been used throughout the site. The use of hover indicates whats been hightlighted before you click on it and underline link shows which page you are on.
+1. Aria labels, screen reader only text and alternative text have been used throughout the site. The use of hover indicates whats been highlighted before you click on it and underline link shows which page you are on.
 2. Shows the site owner location where her studio is based with a map.
 
 Action:
@@ -97,7 +97,7 @@ Action:
 2. Go to contact page, a google map showing the location is implemented on the page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-3.2.png)
 
 Expected result: 
-1. To find clicking the header brand name will take the user back to the homepage
+1. By clicking the header brand name will take the user back to the homepage
 2. To find embedded google map with location pin of the site owner location
 
 Actual result: Both works as expected
@@ -109,7 +109,7 @@ Feature:
 1. Social media links are placed on the footer of all pages.
 
 Action:
-1. To locate them just scroll down, you'll see it's placed in the center of the page.
+1. To locate them just scroll down, you'll see it's placed in the center of the page in the footer.
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-4.1.png)
 
 Expected result: 
@@ -197,7 +197,7 @@ Feature:
 1. A download CV link in PDF format, which opens up in a new window can easily be saved or printed. 
 
 Action:
-1. Download CV link can be found underneath the site owner email address abd mobile on the contact page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-9.1.jpg)
+1. Download CV link can be found underneath the site owner email address and mobile on the contact page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-9.1.jpg)
 
 Expected result: 
 1. To see a PDF version of the web CV to print off or download
@@ -260,9 +260,9 @@ Actual result: Works as expected
 * The 'book now' modal opens up correctly and is able to close by clicking away or clicking the close icon.
 * The form on the 'book now' modal will not submit until all fields are filled out. An alert will be present when a user attempts this.
 * The 'download cv link' opens up in a new window and can be downloaded
-* The row of images in portfolio page collapses into single view column on mobile and two column view on smaller tablet.
+* The row of images in portfolio page collapses into single view column on mobile and two column view on tablet.
 * The google map has a location pin to let users know where the site owner is based.
-* The form on the contact page will not submit until all fields are filled out. An alert will be present when a user attempts this.
+* The form on the contact page will not submit until all fields are filled in. An alert will be present when a user attempts this.
 * The 'show more' link on the about page direct users to the portfolio page.
 * All buttons display a different color or border effect when hovered in desktop view or clicked in mobile view.
 * Unnescessary content does not display on mobile view.
@@ -280,4 +280,17 @@ Actual result: Works as expected
 * Fix: I was able to resolve the issue by removing the display flex property in CSS.
 * Bug: On mobile view smaller than 320px devices, the footer on portfolio page does not stretch 100% width of the page.
 * Fix: Increased the width % and added media query max-width: 320px for smaller devices.
-* Bug: 
+* Bug: The social media icons didn't show up horizontally next to each other on mobile.
+* Fix: Reduced the font-size and padding which resolved the issue immediately.
+* Bug: When the screen gets smaller, the font-size of the navigation bar is too small and the collapse button goes off the screen.
+* Fix: Removed display:block and updated the width to 100%. Changed font-size as well for better readability.
+* Bug: On portfolio page the images was not responsive on medium and large devices, which they would overlap each other and margin gap in between them is too cramped. 
+* Fix: As I wanted the larger devices to display three images in a row, I fixed the issue by re-sizing the image width and use media query of @media (min-width: 992px) and (max-width: 1199.98px).
+* Bug: Page loading speed was slow. As the images on home page were too big and was not optimized for better web design and SEO.
+* Fix: Optimized the jpeg images by making the file sizes smaller, then re-sized it on Pixlr.
+* Bug: Carousel on home page was expanding the full width of the screen, this was causing the images to be pixelated and stretched.
+* Fix: This was resolved by adding a width: 80% and margin: auto so it's aligned in the center of the page.
+* Bug: Had errors on form 'labels for' attribute, I realised the mistake due to HTML validation and on web accessibility.
+* Fix: The 'label for' attribute were typed in with the wrong id name, to fix the issue I went through all the modal forms and the contact form and changed it accordingly.
+* Bug: Hyperlink text were not passing web accessibility standards due to colour contrast failures.
+* Fix: Set color property of all 'a' tags to color light grey. 
