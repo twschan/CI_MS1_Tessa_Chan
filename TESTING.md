@@ -115,3 +115,18 @@ Action:
    On contact page scroll down. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-2.2.png)
 
    A modal form will also pop up when 'Book now' buttons been clicked. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-6.1.png)
+
+
+### Returning user
+
+*7. As a Returning Visitor, I want to find information and updates about her latest projects.*
+
+Feature: 
+1. Future updates can be found on portfolio page when site owner decides to add more information and recent projects. And users can follow updates from site owner social media links.
+
+Action:
+1. Locate the portfolio page from the navigation bar, any updates on projects will be posted on this page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-portfolio.png)
+
+   And social media links can be accessed at the bottom footer on every page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-5.1.png)
+
+
