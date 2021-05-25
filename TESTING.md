@@ -55,6 +55,13 @@ Action:
 2. Scroll down you find the information.  
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-1.2.png)
 
+Expected result: 
+1. To find images of projects she has done
+2. To find brief information about the designer
+
+Actual result: Both works as expected
+
+---
 *2. As a First Time Visitor, I want to easily find out information about the designer.*
 
 Feature:
@@ -67,6 +74,13 @@ Action:
 2. Go to contact page from the nav bar.
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-2.2.png)
 
+Expected result: 
+1. To find working social media links that direct users to and external social media link
+2. To find contact details and forms on contact page
+
+Actual result: Both works as expected
+
+---
 *3. As a First Time Visitor, I want to be able to find the website is easily accessible and stand out from other designers.*
 
 Feature:
@@ -82,7 +96,13 @@ Action:
 
 2. Go to contact page, a google map showing the location is implemented on the page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-3.2.png)
 
+Expected result: 
+1. To find clicking the header brand name will take the user back to the homepage
+2. To find embedded google map with location pin of the site owner location
 
+Actual result: Both works as expected
+
+---
 *4. As a First Time Visitor, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.*
 
 Feature:
@@ -92,6 +112,12 @@ Action:
 1. To locate them just scroll down, you'll see it's placed in the center of the page.
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-4.1.png)
 
+Expected result: 
+1. To find working social media links that direct users to and external social media link
+
+Actual result: Works as expected
+
+---
 *5. As a First Time Visitor, I want to find information about her projects and various images about her designs.*
 
 Feature:
@@ -104,6 +130,13 @@ Action:
 2. Go to about from navigation bar, on the page hover over the photo 'show more' will appear then click on it.
 [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-5.2.png)
 
+Expected result: 
+1. To find site owner's portfolio with various images of her work and clear explanation about the work
+2. To find the 'show more' link in the about page, takes the user to the portfolio page
+
+Actual result: Both works as expected
+
+---
 *6. As a First Time Visitor, I want to be able to reach out to the designer via the website.*
 
 Feature:
@@ -116,7 +149,12 @@ Action:
 
    A modal form will also pop up when 'Book now' buttons been clicked. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-6.1.png)
 
+Expected result: 
+1. To find contact forms to contact the designer
 
+Actual result: Works as expected
+
+---
 ### Returning user
 
 *7. As a Returning Visitor, I want to find information and updates about her latest projects.*
@@ -129,6 +167,12 @@ Action:
 
    And social media links can be accessed at the bottom footer on every page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-5.1.png)
 
+Expected result: 
+1. To find information and updates about her latest projects
+
+Actual result: Works as expected
+
+---
 *8. As a Returning Visitor, I want to find the best way to get in contact with the designer with any questions I may have.*
 
 Feature:
@@ -141,6 +185,12 @@ Action:
     
     [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-cvlink.png)
 
+Expected result: 
+1. To find a contact form that can be submitted
+
+Actual result: Works as expected
+
+---
 *9. As a Returning Visitor, I want to be able to get a downloadable CV of the site owner to easily share with others.*
 
 Feature:
@@ -149,6 +199,12 @@ Feature:
 Action:
 1. Download CV link can be found underneath the site owner email address abd mobile on the contact page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-9.1.jpg)
 
+Expected result: 
+1. To see a PDF version of the web CV to print off or download
+
+Actual result: Works as expected
+
+---
 ### Site owner goal
 
 *10. As a site owner, I want users to see projects that showcase skills and growth.*
@@ -162,6 +218,13 @@ Action:
 
 2. On the home page scroll down you will see a some icons, which represents skills that the site owner has of what she can do or learnt from previous experience. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-3-icons.png)
 
+Expected result: 
+1. To see portfolio page can be updated when needed to add more content
+2. To find skills of what the designer can do for potential future jobs
+
+Actual result: Both works as expected
+
+---
 *11. As a site owner, I want to connect to potential jobs and projects.*
 
 Feature:
@@ -169,6 +232,11 @@ Feature:
 
 Action:
 1. To locate the 'Book now' buttons which can be found the top and button of the home page, and the bottom of the about page. For mobile users it will be placed on the bottom. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/User-6-1.png)
+
+Expected result: 
+1. To find 'book now' buttons easily across all pages
+
+Actual result: Works as expected
 
 #### [Back to top](<#contents>)
 ---
@@ -212,3 +280,4 @@ Action:
 * Fix: I was able to resolve the issue by removing the display flex property in CSS.
 * Bug: On mobile view smaller than 320px devices, the footer on portfolio page does not stretch 100% width of the page.
 * Fix: Increased the width % and added media query max-width: 320px for smaller devices.
+* Bug: 
