@@ -129,4 +129,43 @@ Action:
 
    And social media links can be accessed at the bottom footer on every page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-5.1.png)
 
+*8. As a Returning Visitor, I want to find the best way to get in contact with the designer with any questions I may have.*
 
+Feature:
+1. Contact form and contact details for any queries the user may have. 
+
+Action:
+1. Go to contact page scroll down and all details are near the end of the page. 
+
+    [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-contactform.png) 
+    
+    [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-7-cvlink.png)
+
+*9. As a Returning Visitor, I want to be able to get a downloadable CV of the site owner to easily share with others.*
+
+Feature:
+1. A download CV link in PDF format, which opens up in a new window can easily be saved or printed. 
+
+Action:
+1. Download CV link can be found underneath the site owner email address abd mobile on the contact page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/user-9.1.jpg)
+
+### Site owner goal
+
+*10. As a site owner, I want users to see projects that showcase skills and growth.*
+
+Feature:
+1. Portfolio page for future more projects can be added using the same format.
+2. Skills page can be added to the website in the future, using for the same idea from the home page.
+
+Action:
+1. Go to portfolio page from the navigation bar all old and new projects will be on this page. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-5-portfolio.png)
+
+2. On the home page scroll down you will see a some icons, which represents skills that the site owner has of what she can do or learnt from previous experience. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/features/feature-3-icons.png)
+
+*11. As a site owner, I want to connect to potential jobs and projects.*
+
+Feature:
+1. CTA 'Book now' buttons and contact form are placed throughout the pages for easy access for the user to contact the site owner. There's also social media links where the site owner can be contacted.  
+
+Action:
+1. To locate the 'Book now' buttons which can be found the top and button of the home page, and the bottom of the about page. For mobile users it will be placed on the bottom. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/User-6-1.png)
