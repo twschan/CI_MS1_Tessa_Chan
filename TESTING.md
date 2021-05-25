@@ -8,7 +8,7 @@
       + [Performance](#performance)
    * [Testing User Stories](#testing-user-stories)
    * [Manual testing](#manual-testing)
-   * [Bugs found and resolved during development]()
+   * [Bugs](#bugs)
 
 ## Automated Testing
 
@@ -183,7 +183,7 @@ Action:
 * HP Pavilion 15 Notebook PC
 * iPad pro
 * Huawei P40 Pro
-* The website was viewed with browsers: Internet explorer, Google chrome, Safari, Microsoft edge and Firefox.
+* The website was viewed with browsers: Google chrome, Safari, Microsoft edge and Firefox.
 
 ### Tests performed:
 
@@ -198,4 +198,17 @@ Action:
 * The 'show more' link on the about page direct users to the portfolio page.
 * All buttons display a different color or border effect when hovered in desktop view or clicked in mobile view.
 * Unnescessary content does not display on mobile view.
-* The logo directs users back to the home page on all pages. 
+* The 'Tessa Chan' brand header takes users back to the home page on all pages. 
+* Social links in footer all open in a new page and work from all pages.
+
+#### [Back to top](<#contents>)
+---
+
+## Bugs
+
+### Found and Fixed
+
+* Bug: On the about page the photo of the site owner being very distorted and squashed on mobile view.
+* Fix: I was able to resolve the issue by removing the display flex property in CSS.
+* Bug: On mobile view smaller than 320px devices, the footer on portfolio page does not stretch 100% width of the page.
+* Fix: Increased the width % and added media query max-width: 320px for smaller devices.
