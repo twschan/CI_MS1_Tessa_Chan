@@ -7,7 +7,7 @@
       + [Accessibility](#accessibility)
       + [Performance](#performance)
    * [Testing User Stories](#testing-user-stories)
-   * [Manual testing]()
+   * [Manual testing](#manual-testing)
    * [Bugs found and resolved during development]()
 
 ## Automated Testing
@@ -39,7 +39,7 @@ Click on the page name to see the result: [Home](https://github.com/twschan/CI_M
 #### [Back to top](<#contents>)
 ---
 
-# Testing user Stories
+## Testing User Stories
 
 ### First time user
 
@@ -169,3 +169,33 @@ Feature:
 
 Action:
 1. To locate the 'Book now' buttons which can be found the top and button of the home page, and the bottom of the about page. For mobile users it will be placed on the bottom. [Screenshot show user story](https://github.com/twschan/CI_MS1_Tessa_Chan/blob/master/docs/testing/User-6-1.png)
+
+#### [Back to top](<#contents>)
+---
+
+## Manual testing
+
+### Devices tested:
+
+* iPhone 7 plus
+* iPhone SE
+* Samsung Galaxy Note 10+
+* HP Pavilion 15 Notebook PC
+* iPad pro
+* Huawei P40 Pro
+* The website was viewed with browsers: Internet explorer, Google chrome, Safari, Microsoft edge and Firefox.
+
+### Tests performed:
+
+* All page links in the navigation bar are able to direct users to the correct page and no broken links are present on the navigation bar or it's collapsed version.
+* Page, anchor and outbound links are able to direct users to the correct place with no broken links on desktop or mobile version.
+* The 'book now' modal opens up correctly and is able to close by clicking away or clicking the close icon.
+* The form on the 'book now' modal will not submit until all fields are filled out. An alert will be present when a user attempts this.
+* The 'download cv link' opens up in a new window and can be downloaded
+* The row of images in portfolio page collapses into single view column on mobile and two column view on smaller tablet.
+* The google map has a location pin to let users know where the site owner is based.
+* The form on the contact page will not submit until all fields are filled out. An alert will be present when a user attempts this.
+* The 'show more' link on the about page direct users to the portfolio page.
+* All buttons display a different color or border effect when hovered in desktop view or clicked in mobile view.
+* Unnescessary content does not display on mobile view.
+* The logo directs users back to the home page on all pages. 
