@@ -61,6 +61,10 @@ p {
     margin: 1.5rem 0;
 }
 
+.error-text {
+
+}
+
 /* Header */
 
 /* Fix: Had an issue with the nav bar not being responsive or appearing on the wrong side. This tutorial helped me solved it: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp */
@@ -284,6 +288,19 @@ label {
     border: none;
     border-radius: 50px;
     font-size: 18px;
+    color: #5b5b5b;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+#error-button {
+    width: 80%;
+    padding: 15px;
+    margin-top: 50px;
+    background-color: #FDEADD;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
     color: #5b5b5b;
     font-weight: 700;
     letter-spacing: 2px;
