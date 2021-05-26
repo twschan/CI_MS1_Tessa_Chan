@@ -63,6 +63,8 @@ p {
 
 /* Header */
 
+/* Fix: Had an issue with the nav bar not being responsive or appearing on the wrong side. This tutorial helped me solved it: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp */
+
 .navbar {
     background-color: #f2f2f2;
     text-align: left;
@@ -110,6 +112,8 @@ p {
 
 /* Carousel */
 
+/* Credit: this tutorial helped me fix the carousel: https://www.youtube.com/watch?v=N0LZdyKupx8&t=351s Before it was too big for the page and made my images distorted. */
+
 .carousel {
     width: 80%;
     margin: auto;
@@ -123,6 +127,8 @@ p {
     margin-left: -15px;
     margin-right: -15px;
 }
+
+/* Credit: learnt how to add a circle and styling to icons from this post: https://markheath.net/post/font-awesome-circle-background */
 
 .icon {
     background: #fdeadd;
@@ -157,6 +163,8 @@ p {
     line-height: 27px;
 }
 
+/* Credit: learn from this tutorial how to add hover overlay with text: https://www.youtube.com/watch?v=g5ewPg9kZxc&t=941s&ab_channel=System22I.T.Solutions */
+
 /* Card Overlay */
 
 .ovl {
@@ -182,6 +190,8 @@ p {
     font-size: 32px;
     top: 20rem;
 }
+
+/*Fix: Fixed bug where the image was squashed on mobile view, by removing the display flex property.*/
 
 #my-photo {
     width: 60%;
@@ -281,6 +291,8 @@ label {
 
 /* Hovers */
 
+/* Use this <a> class name on nav links to indicate which page is active */
+
 .highlight {
     text-decoration: underline;
 }
@@ -302,6 +314,8 @@ label {
     color: #FDEADD;
 }
 
+/* Added color style to ensure all <a> tags were inline with accessibility standards */
+
 a:hover {
     color: #FDEADD;
     text-decoration: none;
@@ -316,6 +330,8 @@ a:hover {
 .contact-info {
     display: block;
 }
+
+/* Added color style to ensure all <a> tags were inline with accessibility standards */
 
 #contact-location a {
     font-weight: 600;
@@ -365,6 +381,8 @@ a:hover {
     }
 }    
 
+/* Media query to ensure the modal doesn't fill up the whole page on small devices */
+
 @media (min-width: 320px) and (max-width: 576px){
     .modal-dialog {
         max-width: 295px;
@@ -386,6 +404,8 @@ a:hover {
     }
 } 
 
+/* Fix: Fixed the issue when the footer doesn't stretch full width by increasing the width % */
+
 @media (max-width: 320px) {
     #se-footer {
         width: 115%;
@@ -403,6 +423,8 @@ a:hover {
          text-align: inherit;
     }
 }
+
+/* Fix: I had an issue with images being too close together and overlapping on large devices, to fix it with this media query and resized images */
 
 @media (min-width: 992px) and (max-width: 1199.98px){
     .card {width: 310px;
