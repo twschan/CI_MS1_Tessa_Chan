@@ -61,10 +61,6 @@ p {
     margin: 1.5rem 0;
 }
 
-.error-text {
-
-}
-
 /* Header */
 
 /* Fix: Had an issue with the nav bar not being responsive or appearing on the wrong side. This tutorial helped me solved it: https://www.w3schools.com/howto/howto_js_responsive_navbar_dropdown.asp */
@@ -293,19 +289,6 @@ label {
     letter-spacing: 2px;
 }
 
-#error-button {
-    width: 80%;
-    padding: 15px;
-    margin-top: 50px;
-    background-color: #FDEADD;
-    border: none;
-    border-radius: 50px;
-    font-size: 20px;
-    color: #5b5b5b;
-    font-weight: 700;
-    letter-spacing: 2px;
-}
-
 /* Hovers */
 
 /* Use this <a> class name on nav links to indicate which page is active */
@@ -329,6 +312,11 @@ label {
 
 .social-links a:hover {
     color: #FDEADD;
+}
+
+#error-button:hover {
+    color: #FDEADD;
+    background-color: #F2f2f2;
 }
 
 /* Added color style to ensure all <a> tags were inline with accessibility standards */
@@ -366,6 +354,28 @@ a:hover {
 
 #message {
     height: 120px;
+}
+
+/* Error 404 page */
+
+#error-button {
+    width: 80%;
+    padding: 15px;
+    margin-top: 50px;
+    background-color: #FDEADD;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    color: #5b5b5b;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.error-text {
+    font-size: 50px;
+    margin: 3rem;
+    letter-spacing: 2px;
+    font-weight: 900;
 }
 
 /* Footer */
