@@ -34,6 +34,8 @@ range of devices. The website is personalised by providing some information abou
 
   * [Testing](#testing)
 
+  * [Bugs](#bugs)
+
   * [Deployment](#deployment)
 
   * [Credits](#credits)
@@ -295,6 +297,31 @@ User story 12: As a site owner, I want users to be able to contact the site owne
 Further testing information and reports can be found [here](TESTING.md).
 
 ---
+## Bugs
+
+### Found and Fixed
+
+* Bug: On the about page the photo of the site owner being very distorted and squashed on mobile view.
+* Fix: I was able to resolve the issue by removing the display flex property in CSS.
+* Bug: On mobile view smaller than 320px devices, the footer on portfolio page does not stretch 100% width of the page.
+* Fix: Increased the width % and added media query max-width: 320px for smaller devices.
+* Bug: The social media icons didn't show up horizontally next to each other on mobile.
+* Fix: Reduced the font-size and padding which resolved the issue immediately.
+* Bug: When the screen gets smaller, the font-size of the navigation bar is too small and the collapse button goes off the screen.
+* Fix: Removed display:block and updated the width to 100%. Changed font-size as well for better readability.
+* Bug: On portfolio page the images was not responsive on medium and large devices, which they would overlap each other and margin gap in between them is too cramped. 
+* Fix: As I wanted the larger devices to display three images in a row, I fixed the issue by re-sizing the image width and use media query of @media (min-width: 992px) and (max-width: 1199.98px).
+* Bug: Page loading speed was slow. As the images on home page were too big and was not optimized for better web design and SEO.
+* Fix: Optimized the jpeg images by making the file sizes smaller, then re-sized it on Pixlr.
+* Bug: Carousel on home page was expanding the full width of the screen, this was causing the images to be pixelated and stretched.
+* Fix: This was resolved by adding a width: 80% and margin: auto so it's aligned in the center of the page.
+* Bug: Had errors on form 'labels for' attribute, I realised the mistake due to HTML validation and on web accessibility.
+* Fix: The 'label for' attribute were typed in with the wrong id name, to fix the issue I went through all the modal forms and the contact form and changed it accordingly.
+* Bug: Hyperlink text were not passing web accessibility standards due to colour contrast failures.
+* Fix: Set color property of all 'a' tags to color light grey. 
+
+#### [Back to top](<#contents>)
+
 # Deployment
 
 ### Project creation
