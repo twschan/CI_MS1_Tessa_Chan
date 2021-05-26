@@ -21,7 +21,7 @@ range of devices. The website is personalised by providing some information abou
     + [Typography](#typography)
     + [Icon](#icon)
     + [Imagery](#imagery)
-    + [Structure](#structure)
+* [Scope](#scope)
 *  [Wireframes](#wireframes)
 
   * [Features](#features)
@@ -124,13 +124,20 @@ Imagery is important for a graphic designer portfolio, so choosing good images w
 catch the users attention. All of the projects, logo and private owned images are from 
 the site owner and the portrait used are the site owner photo.
 
-### Structure
-This website will consist four seperate pages a homepage (index.html), portfolio page, about page and a contact page with a contact form and also a link to download CV.
-I have will be using [Bootstrap](https://getbootstrap.com/) to create an overall structure 
-for the website, a Modal component to create the contact form and Carousel component for images for 
-the homepage, the navigation bar will also be fixed on top. A responsive design will be added to the navbar and on small/mobile devices it will
-condense into a hamburger icon that will have a toggle to view the nav menu and it's associated links.
-This will save screen space and keep to conventions users are expecting.
+# Scope
+The scope of the project in it's first release is defined by the following features:
+ 
+ * This website will consist four seperate pages a homepage (index.html), portfolio page, about page and a contact page with a contact form.
+ * A link to download the site owner CV.
+ * An error page (404.html) that directs site users back to the home page (index.html) in the event of a broken URL.
+ * A footer across all pages with links to social media. 
+ * Modal where you can book an appointment with the site owner or any queries users may have.
+ * A contact form where queries can be sent. The form is functional and will not submit unless all fields are filled out.
+ * The navigation bar will also be fixed on top to let users navigate the website easily, without having to scroll back up. 
+ * An about page which contains a brief introduction of the site owner.
+ * A responsive design will be added to the navbar and on small/mobile devices it will condense into a hamburger icon that will have a toggle to view the nav menu and it's associated links. This will save screen space and keep to conventions users are expecting.
+ * Embedded map with a location pin to show users where the site owner is based.
+ * Favicon icon to help users identify the site.
 #### [Back to top](<#contents>)
 ---
 
