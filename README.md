@@ -10,7 +10,7 @@ range of devices. The website is personalised by providing some information abou
 
 ## Contents
 
-* [User experience (UX)](#user-experience-(ux))
+* [User experience](#user-experience)
      + [User Goals](#user-goals)
      + [Site Owner Goals](#site-owner-goals)
 * [User Requirements and Expectations](#user-requirements-and-expectations)
@@ -45,7 +45,7 @@ range of devices. The website is personalised by providing some information abou
 
 
 ---
-# User experience (UX)
+# User experience
 
 ### User Goals
 * A website filled with valuable content 
